@@ -83,7 +83,7 @@ My current research interests lie in remote sensing and computer vision. My rese
 # 💻 Academic Services
 - Teaching Assistant: Course of Geoscience Big Data Analysis, Tsinghua University
 - Guest Editor: Deep Learning in Remote Sensing Allication (Special Issue), Remote Sensing
-- Reviewer: ISPRS P&RS, IEEE TGRS, SRS, JSTARS, RS, IJDE, etc.
+- Reviewer: ISPRS P\&RS, IEEE TGRS, SRS, JSTARS, RS, IJDE, etc.
 
 # 💬 Talks and Presentations
 - *2023.07*, IEEE International Geoscience and Remote Sensing Symposium (IGRASS), Pasadena, USA
