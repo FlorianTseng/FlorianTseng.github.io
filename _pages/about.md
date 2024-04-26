@@ -60,7 +60,7 @@ My current research interests lie in remote sensing and computer vision. My rese
 - **Runmin Dong**, Lixian Zhang and Haohuan Fu*. RRSGAN: Reference-based Super-Resolution for Remote Sensing Image. IEEE Transactions on Geoscience and Remote Sensing (**TGRS**). 2021. (SCI, IF=8.2，**ESI Highly Cited Papers**)
 - **Runmin Dong**, Cong Li, Haohuan Fu*, Jie Wang, Weijia Li, Yi Yao, Lin Gan, Le Yu, and Peng Gong*. Improving 3-m Resolution Land Cover Mapping Through Efficient Learning from an Imperfect 10-m Resolution Map. Remote Sensing, 2020.
 - **Runmin Dong**, Weijia Li*, Haohuan Fu, Lin Gan, and Maocai Xia. Oil Palm Plantation Mapping from High-Resolution Remote Sensing Images Using Deep Learning. International Journal of Remote Sensing, 2019.
-- 
+
 
 # 🌟Fundings and Projects
 - *2024.01 - 2025.12*, The Young Scientists Fund of the National Natural Science Foundation of China. PI, ¥200,000
