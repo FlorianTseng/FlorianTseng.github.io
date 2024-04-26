@@ -53,7 +53,7 @@ My current research interests lie in remote sensing and computer vision. My rese
 </div>
 </div>
 
-- Lixian Zhang, Shuai Yuan, **Runmin Dong^*^**, Juepeng Zheng, Bin Gan, Dengmao Fang, and Haohuan Fu^*^. SWCARE: Switchable learning and connectivity-aware refinement method for multi-city and diverse-scenario road mapping using remote sensing images. International Journal of Applied Earth Observation and Geoinformation (**JAG**). 2024. (SCI, IF=7.5)
+- Lixian Zhang, Shuai Yuan, **Runmin Dong^2^**, Juepeng Zheng, Bin Gan, Dengmao Fang, and Haohuan Fu^*^. SWCARE: Switchable learning and connectivity-aware refinement method for multi-city and diverse-scenario road mapping using remote sensing images. International Journal of Applied Earth Observation and Geoinformation (**JAG**). 2024. (SCI, IF=7.5)
 - **Runmin Dong**, Lixian Zhang, Weijia Li, Shuai Yuan, Lin Gan, Juepeng Zheng, Haohuan Fu^*^, Lichao Mou^*^, and Xiao Xiang Zhu^*^. An Adaptive Image Fusion Method for Sentinel-2 Images and High-Resolution Images with Long-Time Intervals. International Journal of Applied Earth Observation and Geoinformation(**JAG**). 2023. (SCI, IF=7.5)
 - **Runmin Dong**, Lichao Mou, Lixian Zhang, Haohuan Fu^*^, and Xiao Xiang Zhu^*^. Real-World Remote Sensing Image Super-Resolution via a Practical Degradation Model and a Kernel-Aware Network. ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**). 2022. (SCI，IF=12.7)
 - **Runmin Dong**, Weizhen Fang, Haohuan Fu^*^, Lin Gan, Jie Wang, and Peng Gong^*^. High-Resolution Land Cover Mapping Through Learning with Noise Correction. IEEE Transactions on Geoscience and Remote Sensing (**TGRS**). 2021. (SCI,IF=8.2)
