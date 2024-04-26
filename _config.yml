@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Runmin's CV"
-description              : "Runmin's CV"
+title                    : ""
+description              : ""
 repository               : "dongrunmin/dongrunmin.github.io"
 google_scholar_stats_use_cdn : true
 
