@@ -56,17 +56,28 @@ My current research interests lie in remote sensing and computer vision. My rese
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🌟Fundings and Projects
+- *2024.01 - 2025.12*, The Young Scientists Fund of the National Natural Science Foundation of China. PI, ¥200,000
+- *2024.01 - 2025.12*, The China Postdoctoral Science Foundation. PI, ¥80,000
+
+
+# 🎖 Selected Honors and Awards
+- *2022.07* Shuimu Tsinghua Scholar, Tsinghua University
+- *2022.06* Excellent Doctoral Dissertation, Tsinghua University
+- *2022.06* Excellent PhD Graduate, Tsinghua University
+- *2021.09* Beyond Fellow Scholarship, Technical University of Munich
+- *2020.10* National Scholarship, Tsinghua University
+- *2019.08* SenseTime Outstanding Intern, SenseTime
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2017.09 - 2022.06*, Ph.D. degree, Department of Earth System Science, Tsinghua University
+- *2021.09 - 2022.03*, Beyond Fellow, AI4EO Future Lab, Technical University of Munich
+- *2013.09 - 2017.06*, B.S. degree, Department of Science, Beijing Jiaotong University
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💻 Academic Services
+- Teaching Assistant: Course of Geoscience Big Data Analysis, Tsinghua University
+- Guest Editor: Deep Learning in Remote Sensing Allication (Special Issue), Remote Sensing
+- Reviewer: ISPRS P&RS, IEEE TGRS, SRS, JSTARS, RS, IJDE, etc.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Talks and Presentations
+- *2023.07*, 
