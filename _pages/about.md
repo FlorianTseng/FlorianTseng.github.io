@@ -53,11 +53,46 @@ My current research interests lie in remote sensing and computer vision. My rese
 </div>
 </div>
 
-- Lixian Zhang, Shuai Yuan, **Runmin Dong**\*, Juepeng Zheng, Bin Gan, Dengmao Fang, and Haohuan Fu\*. SWCARE: Switchable learning and connectivity-aware refinement method for multi-city and diverse-scenario road mapping using remote sensing images. International Journal of Applied Earth Observation and Geoinformation (**JAG**). 2024. (SCI, IF=7.5)
-- **Runmin Dong**, Lixian Zhang, Weijia Li, Shuai Yuan, Lin Gan, Juepeng Zheng, Haohuan Fu\*, Lichao Mou\*, and Xiao Xiang Zhu\*. An Adaptive Image Fusion Method for Sentinel-2 Images and High-Resolution Images with Long-Time Intervals. International Journal of Applied Earth Observation and Geoinformation(**JAG**). 2023. (SCI, IF=7.5)
-- **Runmin Dong**, Lichao Mou, Lixian Zhang, Haohuan Fu\*, and Xiao Xiang Zhu\*. Real-World Remote Sensing Image Super-Resolution via a Practical Degradation Model and a Kernel-Aware Network. ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**). 2022. (SCI，IF=12.7)
-- **Runmin Dong**, Weizhen Fang, Haohuan Fu\*, Lin Gan, Jie Wang, and Peng Gong\*. High-Resolution Land Cover Mapping Through Learning with Noise Correction. IEEE Transactions on Geoscience and Remote Sensing (**TGRS**). 2021. (SCI,IF=8.2)
-- **Runmin Dong**, Lixian Zhang and Haohuan Fu\*. RRSGAN: Reference-based Super-Resolution for Remote Sensing Image. IEEE Transactions on Geoscience and Remote Sensing (**TGRS**). 2021. (SCI, IF=8.2，**ESI Highly Cited Papers**)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS 2022</div><img src='images/ISPRS2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Real-World Remote Sensing Image Super-Resolution via a Practical Degradation Model and a Kernel-Aware Network](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001824)
+
+**Runmin Dong**, Lichao Mou\*, Lixian Zhang, Haohuan Fu\*, and Xiao Xiang Zhu\*
+
+- *ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)*, 2022 (SCI, Q1 TOP, IF=12.7)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2021</div><img src='images/TGRS2021-RefSR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RRSGAN: Reference-based Super-Resolution for Remote Sensing Image](https://ieeexplore.ieee.org/abstract/document/9328132/)
+
+**Runmin Dong**, Lixian Zhang and Haohuan Fu\*
+
+[**Code and data**](https://github.com/dongrunmin/RRSGAN)
+- *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, 2021 (SCI, CCF-B, IF=8.2)
+- **ESI Highly Cited Papers**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2021</div><img src='images/TGRS2021-LC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[High-Resolution Land Cover Mapping Through Learning with Noise Correction](https://ieeexplore.ieee.org/abstract/document/9397290/)
+
+**Runmin Dong**, Weizhen Fang, Haohuan Fu\*, Lin Gan, Jie Wang, and Peng Gong\*
+
+- *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, 2021 (SCI, CCF-B, IF=8.2)
+
+</div>
+</div>
+
+- Lixian Zhang, Shuai Yuan, **Runmin Dong**\*, Juepeng Zheng, Bin Gan, Dengmao Fang, and Haohuan Fu\*. SWCARE: Switchable learning and connectivity-aware refinement method for multi-city and diverse-scenario road mapping using remote sensing images. International Journal of Applied Earth Observation and Geoinformation (**JAG**). 2024. (SCI, Q1, IF=7.5)
+- **Runmin Dong**, Lixian Zhang, Weijia Li, Shuai Yuan, Lin Gan, Juepeng Zheng, Haohuan Fu\*, Lichao Mou\*, and Xiao Xiang Zhu\*. An Adaptive Image Fusion Method for Sentinel-2 Images and High-Resolution Images with Long-Time Intervals. International Journal of Applied Earth Observation and Geoinformation(**JAG**). 2023. (SCI, Q1, IF=7.5)
 - **Runmin Dong**, Cong Li, Haohuan Fu\*, Jie Wang, Weijia Li, Yi Yao, Lin Gan, Le Yu, and Peng Gong\*. Improving 3-m Resolution Land Cover Mapping Through Efficient Learning from an Imperfect 10-m Resolution Map. Remote Sensing, 2020.
 - **Runmin Dong**, Weijia Li\*, Haohuan Fu, Lin Gan, and Maocai Xia. Oil Palm Plantation Mapping from High-Resolution Remote Sensing Images Using Deep Learning. International Journal of Remote Sensing, 2019.
 
@@ -70,13 +105,13 @@ My current research interests lie in remote sensing and computer vision. My rese
 
 
 # 🎖 Selected Honors and Awards
-- *2023.09*, First Prize and Bole Award of the Smart City Innovation Application Competition Empowered by Aerospace Information Technology (中国测绘学会颁发的空天地信息技术赋能智慧城市创新应用大赛一等奖(最高奖项)、伯乐奖(仅两名)), Chinese Society for Geodesy Photogrammetry and Cartography
-- *2022.07*, Shuimu Tsinghua Scholar (水木学者), Tsinghua University
-- *2022.06*, Excellent PhD Thesis Award （优秀博士毕业论文）, Tsinghua University
-- *2022.06*, Outstanding PhD Graduates Award（优秀博士毕业生）, Tsinghua University
-- *2021.09*, Beyond Fellow Scholarship, Technical University of Munich
-- *2020.10*, National Scholarship for Graduate Student（博士生国家奖学金）, Tsinghua University
-- *2019.08*, SenseTime Outstanding Intern (商汤优秀实习生), SenseTime
+- *2023.09*, First Prize and Bole Award of the Smart City Innovation Application Competition Empowered by Aerospace Information Technology, Chinese Society for Geodesy Photogrammetry and Cartography (中国测绘学会颁发的空天地信息技术赋能智慧城市创新应用大赛一等奖(最高奖项)、伯乐奖(仅两名))
+- *2022.07*, Shuimu Tsinghua Scholar, Tsinghua University (清华大学“水木学者”博士后人才项目)
+- *2022.06*, Excellent PhD Thesis Award, Tsinghua University (清华大学优秀博士毕业论文)
+- *2022.06*, Outstanding PhD Graduates Award, Tsinghua University（清华大学优秀博士毕业生）
+- *2021.09*, Beyond Fellow Scholarship, Technical University of Munich（慕尼黑工业大学访问学者资助项目）
+- *2020.10*, National Scholarship for Graduate Student, Tsinghua University（博士生国家奖学金）
+- *2019.08*, SenseTime Outstanding Intern, SenseTime (商汤科技优秀实习生)
 
 # 📖 Educations
 - *2017.09 - 2022.06*, Ph.D. degree, Department of Earth System Science, Tsinghua University
