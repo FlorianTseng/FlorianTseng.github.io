@@ -121,7 +121,7 @@ My current research interests lie in remote sensing and computer vision. My rese
 
 # 💻 Research Experience and Academic Services
 - *2022.07 – Present*, Postdoc. Department of Earth System Science, Tsinghua University
-- *2021.06 - 2022.12*, Guest Editor. Deep Learning in Remote Sensing Allication (Special Issue), Remote Sensing
+- *2021.06 - 2022.12*, Guest Editor. Special Issue on Deep Learning in Remote Sensing Application, Remote Sensing
 - *2018.02 – 2021.06*, Teaching Assistant. Geoscience Big Data Analysis Course for Undergraduate Students, Tsinghua University
 - *2020.01 – Present*, Reviewer. ISPRS, IEEE TGRS, ACM MM, SRS, JSTARS, RS, IJDE, etc.
 
