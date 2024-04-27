@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working as a postdoctoral researcher at the Department of Earth System Science of Tsinghua University. I received the Ph.D. degree with honour from Tsinghua University, advised by Prof. Haohuan Fu. I have also spent time at Prof. Xiao Xiang Zhu's lab in Technical University of Munich.
+I am currently working as a postdoctoral researcher at the Department of Earth System Science of Tsinghua University. I received the Ph.D. degree with honour from Tsinghua University, advised by [Prof. Haohuan Fu](http://www.thuhpgc.net/mediawiki/index.php/Haohuan_Fu). I have also spent time at [Prof. Xiao Xiang Zhu](https://www.asg.ed.tum.de/sipeo/team/zhu/)'s lab in Technical University of Munich.
 
 My current research interests lie in remote sensing and computer vision. My research started from large-scale land cover mapping, aiming to improve resolution and accuracy within fine-grained classification systems through AI techniques. Key technologies in this project include image super-resolution, multi-source data fusion, self-supervised and weakly supervised learning, semantic segmentation, etc. Building on the advancements in land cover mapping products, I am trying to understand the land cover changes on the Earth and the patterns of urban development. My research vision is to leverage AI to establish innovative paradigms for Earth observation applications and derive fresh scientific insights for sustainable human development.
 
@@ -116,7 +116,7 @@ My current research interests lie in remote sensing and computer vision. My rese
 
 # 📖 Educations
 - *2017.09 - 2022.06*, Ph.D. degree, Department of Earth System Science, Tsinghua University
-- *2021.09 - 2022.03*, Beyond Fellow, AI4EO Future Lab, Technical University of Munich
+- *2021.09 - 2022.03*, Beyond Fellow, [AI4EO Future Lab](https://ai4eo.de/our-team), Technical University of Munich
 - *2013.09 - 2017.06*, B.S. degree, Department of Science, Beijing Jiaotong University
 
 # 💻 Research Experience and Academic Services
