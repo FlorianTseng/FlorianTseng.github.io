@@ -98,7 +98,7 @@ My current research interests lie in remote sensing and computer vision. My rese
 - **Runmin Dong**, Weijia Li\*, Haohuan Fu, Lin Gan, and Maocai Xia. Oil Palm Plantation Mapping from High-Resolution Remote Sensing Images Using Deep Learning. *International Journal of Remote Sensing*, 2019.
 
 
-# 🌟Fundings and Projects
+# 🌟 Fundings and Projects
 - *2023.12 - 2026.11*, Highly Scalable Parallel and Intelligent Computing Technologies for High-Resolution Regional Climate Models. National Key Research and Development Plan of China. Subtask Leader, ¥450,000 (国家重点研发计划子课题负责人)
 - *2024.01 - 2025.12*, Fine-Grained Land Cover Classification Based on Reliable Fusion and Label Generation. The Young Scientists Fund of the National Natural Science Foundation of China. PI, ¥200,000 (主持国家自然科学基金青年基金)
 - *2024.01 - 2025.12*, Large-Factor Super-Resolution and Application of Remote Sensing Images Based on Progressive Reconstruction and Reference-Guided Texture Transfer. The China Postdoctoral Science Foundation. PI, ¥80,000 (主持中国博士后面上基金)
