@@ -63,17 +63,20 @@ My current research interests lie in remote sensing and computer vision. My rese
 
 
 # 🌟Fundings and Projects
-- *2024.01 - 2025.12*, The Young Scientists Fund of the National Natural Science Foundation of China. PI, ¥200,000
-- *2024.01 - 2025.12*, The China Postdoctoral Science Foundation. PI, ¥80,000
+- *2023.12 - 2026.11*, Highly Scalable Parallel and Intelligent Computing Technologies for High-Resolution Regional Climate Models. National Key Research and Development Plan of China. Subtask Leader, ¥450,000 (国家重点研发计划子课题负责人)
+- *2024.01 - 2025.12*, Fine-Grained Land Cover Classification Based on Reliable Fusion and Label Generation. The Young Scientists Fund of the National Natural Science Foundation of China. PI, ¥200,000 (主持国家自然科学基金青年基金)
+- *2024.01 - 2025.12*, Large-Factor Super-Resolution and Application of Remote Sensing Images Based on Progressive Reconstruction and Reference-Guided Texture Transfer. The China Postdoctoral Science Foundation. PI, ¥80,000 (主持中国博士后面上基金)
+- *2023.07 - 2024.07*, Pre-training and Segmentation Foundational Models for Remote Sensing Images. SenseTime. PI, ¥300,000 (支撑和主导商汤科技校企合作项目)
 
 
 # 🎖 Selected Honors and Awards
-- *2022.07*, Shuimu Tsinghua Scholar, Tsinghua University
-- *2022.06*, Excellent Doctoral Dissertation, Tsinghua University
-- *2022.06*, Excellent PhD Graduate, Tsinghua University
+- *2023.09*, First Prize and Bole Award of the Smart City Innovation Application Competition Empowered by Aerospace Information Technology (中国测绘学会颁发的空天地信息技术赋能智慧城市创新应用大赛一等奖(最高奖项)、伯乐奖(仅两名)), Chinese Society for Geodesy Photogrammetry and Cartography
+- *2022.07*, Shuimu Tsinghua Scholar (水木学者), Tsinghua University
+- *2022.06*, Excellent PhD Thesis Award （优秀博士毕业论文）, Tsinghua University
+- *2022.06*, Outstanding PhD Graduates Award（优秀博士毕业生）, Tsinghua University
 - *2021.09*, Beyond Fellow Scholarship, Technical University of Munich
-- *2020.10*, National Scholarship, Tsinghua University
-- *2019.08*, SenseTime Outstanding Intern, SenseTime
+- *2020.10*, National Scholarship for Graduate Student（博士生国家奖学金）, Tsinghua University
+- *2019.08*, SenseTime Outstanding Intern (商汤优秀实习生), SenseTime
 
 # 📖 Educations
 - *2017.09 - 2022.06*, Ph.D. degree, Department of Earth System Science, Tsinghua University
@@ -86,5 +89,6 @@ My current research interests lie in remote sensing and computer vision. My rese
 - Reviewer: ISPRS P\&RS, IEEE TGRS, SRS, JSTARS, RS, IJDE, etc.
 
 # 💬 Talks and Presentations
-- *2023.07*, IEEE International Geoscience and Remote Sensing Symposium (IGRASS), Pasadena, USA
-- *2019.11*, IEEE International Conference on Computer Vision Workshop (ICCVW), Seoul, Korea
+- *2023.10*, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Paris, France (Poster)
+- *2023.07*, IEEE International Geoscience and Remote Sensing Symposium (IGRASS), Pasadena, USA (Oral)
+- *2019.10*, IEEE International Conference on Computer Vision Workshop (ICCVW), Seoul, Korea (Oral)
