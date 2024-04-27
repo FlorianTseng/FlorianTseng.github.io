@@ -128,4 +128,7 @@ My current research interests lie in remote sensing and computer vision. My rese
 # 💬 Talks and Presentations
 - *2023.10*, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Paris, France (Poster)
 - *2023.07*, IEEE International Geoscience and Remote Sensing Symposium (IGRASS), Pasadena, USA (Oral)
+- *2023.06*, Quantitative Remote Sensing Forum, Chengdu, China (Oral)
+- *2023.05*, Youth Geoscience Forum, Wuhan, China (Oral)
+- *2021.07*, IEEE International Geoscience and Remote Sensing Symposium (IGRASS), Online (Oral)
 - *2019.10*, IEEE International Conference on Computer Vision Workshop (ICCVW), Seoul, Korea (Oral)
