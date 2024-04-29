@@ -131,4 +131,5 @@ My current research interests lie in remote sensing and computer vision. My rese
 - *2023.06*, Quantitative Remote Sensing Forum, Chengdu, China (Oral)
 - *2023.05*, Youth Geoscience Forum, Wuhan, China (Oral)
 - *2021.07*, IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Online (Oral)
+- *2020.10*, IEEE GRSS Webinars, Online (Oral)
 - *2019.10*, IEEE International Conference on Computer Vision Workshop (ICCVW), Seoul, Korea (Oral)
