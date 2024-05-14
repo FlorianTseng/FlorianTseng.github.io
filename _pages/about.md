@@ -23,6 +23,7 @@ My current research interests lie in remote sensing and computer vision. My rese
 
 
 # 🔥 News
+- *2024.05*: DeepLight is accepted by Special Track on AI and Social Good of IJCAI 2024.
 - *2024.02*: Ref-Diff is accepted by CVPR 2024. 
 
 
@@ -92,6 +93,7 @@ My current research interests lie in remote sensing and computer vision. My rese
 </div>
 </div>
 
+- Lixian Zhang, **Runmin Dong**\*, Shuai Yuan, Jinxiao Zhang, Mengxuan Chen, Juepeng Zheng, Haohuan Fu\*. DeepLight: Reconstructing High-Resolution Observations of Nighttime Light With Multi-Modal Remote Sensing Data. *In Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (**IJCAI**)*. 2024. (Accept, CCF-A)
 - Lixian Zhang, Shuai Yuan, **Runmin Dong**\*, Juepeng Zheng, Bin Gan, Dengmao Fang, and Haohuan Fu\*. SWCARE: Switchable learning and connectivity-aware refinement method for multi-city and diverse-scenario road mapping using remote sensing images. *International Journal of Applied Earth Observation and Geoinformation (**JAG**)*. 2024. (SCI, Q1, IF=7.5)
 - **Runmin Dong**, Lixian Zhang, Weijia Li, Shuai Yuan, Lin Gan, Juepeng Zheng, Haohuan Fu\*, Lichao Mou\*, and Xiao Xiang Zhu\*. An Adaptive Image Fusion Method for Sentinel-2 Images and High-Resolution Images with Long-Time Intervals. *International Journal of Applied Earth Observation and Geoinformation(**JAG**)*. 2023. (SCI, Q1, IF=7.5)
 - **Runmin Dong**, Cong Li, Haohuan Fu\*, Jie Wang, Weijia Li, Yi Yao, Lin Gan, Le Yu, and Peng Gong\*. Improving 3-m Resolution Land Cover Mapping Through Efficient Learning from an Imperfect 10-m Resolution Map. *Remote Sensing*, 2020.
