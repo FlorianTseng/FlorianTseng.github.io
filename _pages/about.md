@@ -38,7 +38,7 @@ My current research interests lie in remote sensing and computer vision. My rese
 **Runmin Dong**, Shuai Yuan, Bin Luo, Mengxuan Chen, Jinxiao Zhang, Lixian Zhang, Weijia Li, Juepeng Zheng, Haohuan Fu\*
 
 [**Code and data**](https://github.com/dongrunmin/RefDiff)
-- *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2024 (CCF-A)
+- *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2024 (CCF-A, Acceptance rate: 23.6%)
 
 </div>
 </div>
@@ -50,7 +50,7 @@ My current research interests lie in remote sensing and computer vision. My rese
 
 **Runmin Dong**, Lichao Mou, Mengxuan Chen, Weijia Li, Xinyi Tong, Shuai Yuan, Lixian Zhang, Juepeng Zheng, Xiaoxiang Zhu, and Haohuan Fu\*
 
-- *IEEE International Conference on Computer Vision (**ICCV**)*, 2023 (CCF-A)
+- *IEEE International Conference on Computer Vision (**ICCV**)*, 2023 (CCF-A, Acceptance rate: 26.8%)
 
 </div>
 </div>
@@ -62,7 +62,7 @@ My current research interests lie in remote sensing and computer vision. My rese
 
 **Runmin Dong**, Lichao Mou\*, Lixian Zhang, Haohuan Fu\*, and Xiao Xiang Zhu\*
 
-- *ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)*, 2022 (SCI, Q1 TOP, IF=12.7)
+- *ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)*, 2022 (SCI, Q1 TOP, IF=10.6)
 
 </div>
 </div>
@@ -75,7 +75,7 @@ My current research interests lie in remote sensing and computer vision. My rese
 **Runmin Dong**, Lixian Zhang and Haohuan Fu\*
 
 [**Code and data**](https://github.com/dongrunmin/RRSGAN)
-- *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, 2021 (SCI, CCF-B, IF=8.2)
+- *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, 2021 (SCI, CCF-B, Q1, IF=7.5)
 - **ESI Highly Cited Papers**
 
 </div>
@@ -88,14 +88,14 @@ My current research interests lie in remote sensing and computer vision. My rese
 
 **Runmin Dong**, Weizhen Fang, Haohuan Fu\*, Lin Gan, Jie Wang, and Peng Gong\*
 
-- *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, 2021 (SCI, CCF-B, IF=8.2)
+- *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, 2021 (SCI, CCF-B, Q1, IF=7.5)
 
 </div>
 </div>
 
 - Lixian Zhang, **Runmin Dong**\*, Shuai Yuan, Jinxiao Zhang, Mengxuan Chen, Juepeng Zheng, Haohuan Fu\*. DeepLight: Reconstructing High-Resolution Observations of Nighttime Light With Multi-Modal Remote Sensing Data. *In Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (**IJCAI**)*. 2024. (Accept, CCF-A)
-- Lixian Zhang, Shuai Yuan, **Runmin Dong**\*, Juepeng Zheng, Bin Gan, Dengmao Fang, and Haohuan Fu\*. SWCARE: Switchable learning and connectivity-aware refinement method for multi-city and diverse-scenario road mapping using remote sensing images. *International Journal of Applied Earth Observation and Geoinformation (**JAG**)*. 2024. (SCI, Q1, IF=7.5)
-- **Runmin Dong**, Lixian Zhang, Weijia Li, Shuai Yuan, Lin Gan, Juepeng Zheng, Haohuan Fu\*, Lichao Mou\*, and Xiao Xiang Zhu\*. An Adaptive Image Fusion Method for Sentinel-2 Images and High-Resolution Images with Long-Time Intervals. *International Journal of Applied Earth Observation and Geoinformation(**JAG**)*. 2023. (SCI, Q1, IF=7.5)
+- Lixian Zhang, Shuai Yuan, **Runmin Dong**\*, Juepeng Zheng, Bin Gan, Dengmao Fang, and Haohuan Fu\*. SWCARE: Switchable learning and connectivity-aware refinement method for multi-city and diverse-scenario road mapping using remote sensing images. *International Journal of Applied Earth Observation and Geoinformation (**JAG**)*. 2024. (SCI, Q1, IF=7.6)
+- **Runmin Dong**, Lixian Zhang, Weijia Li, Shuai Yuan, Lin Gan, Juepeng Zheng, Haohuan Fu\*, Lichao Mou\*, and Xiao Xiang Zhu\*. An Adaptive Image Fusion Method for Sentinel-2 Images and High-Resolution Images with Long-Time Intervals. *International Journal of Applied Earth Observation and Geoinformation(**JAG**)*. 2023. (SCI, Q1, IF=7.6)
 - **Runmin Dong**, Cong Li, Haohuan Fu\*, Jie Wang, Weijia Li, Yi Yao, Lin Gan, Le Yu, and Peng Gong\*. Improving 3-m Resolution Land Cover Mapping Through Efficient Learning from an Imperfect 10-m Resolution Map. *Remote Sensing*, 2020.
 - **Runmin Dong**, Weijia Li\*, Haohuan Fu, Lin Gan, and Maocai Xia. Oil Palm Plantation Mapping from High-Resolution Remote Sensing Images Using Deep Learning. *International Journal of Remote Sensing*, 2019.
 
@@ -125,7 +125,7 @@ My current research interests lie in remote sensing and computer vision. My rese
 - *2022.07 – Present*, Postdoc. Department of Earth System Science, Tsinghua University
 - *2021.06 - 2022.12*, Guest Editor. Special Issue on Deep Learning in Remote Sensing Application, Remote Sensing
 - *2018.02 – 2021.06*, Teaching Assistant. Geoscience Big Data Analysis Course for Undergraduate Students, Tsinghua University
-- *2020.01 – Present*, Reviewer. ISPRS, IEEE TGRS, ACM MM, IEEE GRSL, SRS, JSTARS, RS, IJDE, IJRS, etc.
+- *2020.01 – Present*, Reviewer. NeurIPS, ISPRS, IEEE TGRS, ACM MM, IEEE GRSL, SRS, JSTARS, RS, IJDE, IJRS, etc.
 
 # 💬 Talks and Presentations
 - *2023.10*, IEEE International Conference on Computer Vision (ICCV), Paris, France (Poster)
