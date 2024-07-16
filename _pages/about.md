@@ -23,6 +23,7 @@ My current research interests lie in remote sensing and computer vision. My rese
 
 
 # 🔥 News
+- *2024.07*: Spatial-Temporal Context Model for Remote Sensing Imagery Compression (STCM) is accepted by ACM MM 2024.
 - *2024.05*: DeepLight is accepted by IJCAI 2024 (Special Track on AI and Social Good).
 - *2024.02*: Ref-Diff is accepted by CVPR 2024. 
 
