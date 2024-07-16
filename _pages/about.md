@@ -129,6 +129,7 @@ My current research interests lie in remote sensing and computer vision. My rese
 - *2020.01 – Present*, Reviewer. NeurIPS, ISPRS, IEEE TGRS, ACM MM, IEEE GRSL, SRS, JSTARS, RS, IJDE, IJRS, etc.
 
 # 💬 Talks and Presentations
+- *2024.06*, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, USA (Poster)
 - *2023.10*, IEEE International Conference on Computer Vision (ICCV), Paris, France (Poster)
 - *2023.07*, IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Pasadena, USA (Oral)
 - *2023.06*, Quantitative Remote Sensing Forum, Chengdu, China (Oral)
