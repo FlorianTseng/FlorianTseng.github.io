@@ -17,15 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working as a postdoctoral researcher at the Department of Earth System Science of Tsinghua University. I received the Ph.D. degree with honour from Tsinghua University, advised by [Prof. Haohuan Fu](http://www.thuhpgc.net/mediawiki/index.php/Haohuan_Fu). I have also spent time at [Prof. Xiao Xiang Zhu](https://www.asg.ed.tum.de/sipeo/team/zhu/)'s lab in Technical University of Munich.
+I am currently an Associate Professor at Sun Yat-Sen University. Previously, I was a Post-doc Researcher
+at the Department of Earth System Science of Tsinghua University. I received the Ph.D. degree with honour from Tsinghua University, advised by [Prof. Haohuan Fu](http://www.thuhpgc.net/mediawiki/index.php/Haohuan_Fu). I have also spent time at [Prof. Xiao Xiang Zhu](https://www.asg.ed.tum.de/sipeo/team/zhu/)'s lab in Technical University of Munich (TUM) and [Prof. Bin Chen](https://fuse-lab-site.webflow.io)'s lab in the University of Hong Kong (HKU).
 
 My current research interests lie in remote sensing and computer vision. My research started from large-scale land cover mapping, aiming to improve resolution and accuracy within fine-grained classification systems through AI techniques. Key technologies in this project include image super-resolution, multi-source data fusion, self-supervised and weakly supervised learning, semantic segmentation, etc. Building on the advancements in land cover mapping products, I am trying to understand the land cover changes on the Earth and the patterns of urban development. My research vision is to leverage AI to establish innovative paradigms for Earth observation applications and derive fresh scientific insights for sustainable human development.
-
-
-# 🔥 News
-- *2024.07*: Spatial-Temporal Context Model for Remote Sensing Imagery Compression (STCM) is accepted by ACM MM 2024.
-- *2024.05*: DeepLight is accepted by IJCAI 2024 (Special Track on AI and Social Good).
-- *2024.02*: Ref-Diff is accepted by CVPR 2024. 
 
 
 # 📝 Publications 
@@ -94,6 +89,7 @@ My current research interests lie in remote sensing and computer vision. My rese
 </div>
 </div>
 
+- Weijia Li, Jinhua Yu, Dairong Chen, Yi Lin, **Runmin Dong**\*, Xiang Zhang, Conghui He, and Haohuan Fu\*. Fine-Grained Building Function Recognition from Street-View Images via Geometry-Aware Semi-Supervised Learning. *International Journal of Applied Earth Observation and Geoinformation (**JAG**)*. 2025. (SCI, Q1, IF=7.6)
 - Jinxiao Zhang, **Runmin Dong**\*, Juepeng Zheng, Mengxuan Chen, Lixian Zhang, Yi Zhao, and Haohuan Fu\*. Spatial-Temporal Context Model for Remote Sensing Imagery Compression. *In Proceedings of the 32nd ACM International Conference on Multimedia (**ACM MM**)*. 2024. (CCF-A)
 - Lixian Zhang, **Runmin Dong**\*, Shuai Yuan, Jinxiao Zhang, Mengxuan Chen, Juepeng Zheng, Haohuan Fu\*. DeepLight: Reconstructing High-Resolution Observations of Nighttime Light With Multi-Modal Remote Sensing Data. *In Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (**IJCAI**)*. 2024. (CCF-A)
 - Lixian Zhang, Shuai Yuan, **Runmin Dong**\*, Juepeng Zheng, Bin Gan, Dengmao Fang, and Haohuan Fu\*. SWCARE: Switchable learning and connectivity-aware refinement method for multi-city and diverse-scenario road mapping using remote sensing images. *International Journal of Applied Earth Observation and Geoinformation (**JAG**)*. 2024. (SCI, Q1, IF=7.6)
@@ -124,7 +120,8 @@ My current research interests lie in remote sensing and computer vision. My rese
 - *2013.09 - 2017.06*, B.S. degree, Department of Science, Beijing Jiaotong University
 
 # 💻 Research Experience and Academic Services
-- *2022.07 – Present*, Postdoc. Department of Earth System Science, Tsinghua University
+- *2022.07 – 2025.01*, Postdoc. Department of Earth System Science, Tsinghua University
+- *2024.07 – 2025.02*, Visiting Postdoctoral Researcher. The University of Hong Kong
 - *2021.06 - 2022.12*, Guest Editor. Special Issue on Deep Learning in Remote Sensing Application, Remote Sensing
 - *2018.02 – 2021.06*, Teaching Assistant. Geoscience Big Data Analysis Course for Undergraduate Students, Tsinghua University
 - *2020.01 – Present*, Reviewer. NeurIPS, ISPRS, IEEE TGRS, ACM MM, IEEE GRSL, SRS, JSTARS, RS, IJDE, IJRS, etc.
