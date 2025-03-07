@@ -22,6 +22,10 @@ at the Department of Earth System Science of Tsinghua University. I received the
 
 My current research interests lie in remote sensing and computer vision. My research started from large-scale land cover mapping, aiming to improve resolution and accuracy within fine-grained classification systems through AI techniques. Key technologies in this project include image super-resolution, multi-source data fusion, self-supervised and weakly supervised learning, semantic segmentation, etc. Building on the advancements in land cover mapping products, I am trying to understand the land cover changes on the Earth and the patterns of urban development. My research vision is to leverage AI to establish innovative paradigms for Earth observation applications and derive fresh scientific insights for sustainable human development.
 
+I am looking for self-motivated undergraduate students to join our Master's program starting in 2025. Please feel free to contact me if you are interested!
+
+课题组招收2025年入学的硕士生，有兴趣的同学请尽早与我邮件联系！
+
 
 # 📝 Publications 
 (\*Corresponding Author)
