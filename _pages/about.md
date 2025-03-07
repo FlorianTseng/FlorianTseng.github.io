@@ -24,7 +24,7 @@ My current research interests lie in remote sensing and computer vision. My rese
 
 I am looking for self-motivated undergraduate students to join our Master's program starting in 2025. Please feel free to contact me if you are interested!
 
-课题组招收2025年入学的硕士生，有兴趣的同学请尽早与我邮件联系！
+课题组招收2025年入学的硕士生，欢迎有兴趣的同学与我邮件联系！
 
 
 # 📝 Publications 
