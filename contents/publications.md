@@ -1,2 +1,5 @@
 - <strong>Y, Zeng.</strong>, W. Cao*, T. Peng, Y. Hou, L. Miao, Z. Wang*, & J. Shi (2025). A machine learning-based framework for predicting the power factor of thermoelectric materials. Applied Materials Today, 43, 102627. [[Paper]](https://www.sciencedirect.com/science/article/pii/S2352940725000460) [[Code]](https://github.com/FlorianTseng/TE-PF-Prediction)
 
+- <strong>Y. Zeng</strong>, W. Cao, Y. Zuo, T. Peng, Y. Hou, L. Miao, Y. Yang, Z. Wang\*, & J. Shi (2025). Accelerating the exploration of thermal materials via a synergistic strategy of DFT and interpretable deep learning. *arXiv preprint arXiv:2412.05948*. [[Paper]](https://arxiv.org/abs/2412.05948) [[Code]](https://github.com/FlorianTseng/LTC-modeling)
+
+- <strong>Y. Zeng</strong>, W. Xie, W. Cao, T. Peng, Y. Hou, Z. Wang\*, & J. Shi (2025). Accelerating multi-objective collaborative optimization of doped thermoelectric materials via artificial intelligence. *arXiv preprint arXiv:2504.08258*. [[Paper]](https://arxiv.org/abs/2504.08258) [[Code]](https://github.com/FlorianTseng/WaveTENet)
