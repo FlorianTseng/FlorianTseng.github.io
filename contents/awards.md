@@ -1,13 +1,11 @@
-- National Scholarship of Graduate Student, 2024.
+- University-level Outstanding Student of Wuhan University of Technology, 2020–2021.
 
-- First-prize Scholarship of CUMT, 2024.
+- School-level Outstanding Student of Wuhan University of Technology, 2019–2020, 2021–2022.
 
-- First-prize Scholarship of CUMT, 2023.
+- Second-class Scholarship of Wuhan University of Technology, 2019–2020, 2020–2021.
 
-- Freshman Scholarship of CUMT, 2022.
+- Third-class Scholarship of Wuhan University of Technology, 2021–2022.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Third Prize, Undergraduate Group, 11th MathorCup Mathematical Modeling Challenge.
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- [Excellent Bachelor's Thesis of Wuhan University of Technology, 2023.](http://wutinfo.whut.edu.cn/tzgg/202306/P020230621604829532686.pdf)
