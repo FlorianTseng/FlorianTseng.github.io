@@ -5,7 +5,7 @@
 I am currently pursuing a Master's Degree in Electronical Science and Technology, at the Institute of Technological Sciences, Wuhan University, PR China.
 
 #### Email
-florian[at]whu.edu.cn
+[Email me!](mailto:florian@whu.edu.cn)
 
 #### Education
 M.E., Electronical Science and Technology, Wuhan University, 2023—2026 (expected).\
