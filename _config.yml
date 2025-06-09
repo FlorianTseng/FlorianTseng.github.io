@@ -6,28 +6,28 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : ""
+title                    : "Florian's homepage"
 description              : ""
-repository               : "dongrunmin/dongrunmin.github.io"
+repository               : "FlorianTseng/FlorianTseng.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  "6J2t4zEAAAAJ"
 
 # SEO Related
-google_site_verification :  "https://scholar.google.com/citations?hl=zh-CN&user=6J2t4zEAAAAJ"
+google_site_verification :  "https://scholar.google.com/citations?user=obJPkcYAAAAJ&hl=zh-CN"
 
 # Site Author
 author:
-  name             : "Runmin Dong (董润敏)"
+  name             : "Yuxuan Zeng (曾宇轩)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Associate Professor, School of Artificial Intelligence, Sun Yat‑Sen University"
-  location         : "Zhuhai, China"
+  bio              : "Postgraduate student, The Institute of Technological Sciences, Wuhan University"
+  location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=6J2t4zEAAAAJ"
-  email            : "dongrunmin95@163.com"
-  researchgate     : "https://www.researchgate.net/profile/Runmin-Dong"
+  googlescholar    : "https://scholar.google.com/citations?user=obJPkcYAAAAJ&hl=zh-CN"
+  email            : "florian@whu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Yuxuan-Zeng-11/research"
   uri              :
   bitbucket        :
   codepen          :
@@ -35,7 +35,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "FlorianTseng"
   google_plus      :
   keybase          :
   instagram        :
@@ -43,7 +43,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : # e.g., "https://https://orcid.org/0009-0004-8954-4377"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
