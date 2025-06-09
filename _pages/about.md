@@ -119,9 +119,8 @@ I am looking for self-motivated undergraduate students to join our Master's prog
 - *2019.08*, SenseTime Outstanding Intern, SenseTime (商汤科技优秀实习生)
 
 # 📖 Educations
-- *2017.09 - 2022.06*, Ph.D. degree, Department of Earth System Science, Tsinghua University
-- *2021.09 - 2022.03*, Beyond Fellow, [AI4EO Future Lab](https://ai4eo.de/our-team), Technical University of Munich
-- *2013.09 - 2017.06*, B.S. degree, Department of Science, Beijing Jiaotong University
+- *2023.09 - 2026.06*, M. Sc. degree, The Institute of Technological Sciences, Wuhan University
+- *2019.09 - 2023.06*, B.S. degree, School of Information Engineering, Wuhan University of Technology
 
 # 💻 Research Experience and Academic Services
 - *2022.07 – 2025.01*, Postdoc. Department of Earth System Science, Tsinghua University
