@@ -27,7 +27,7 @@ I am looking for self-motivated undergraduate students to join our Master's prog
 # 📝 Publications 
 (\*Corresponding Author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APMT 2024</div><img src='images/paper1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APMT 2025</div><img src='images/paper1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A machine learning-based framework for predicting the power factor of thermoelectric materials](https://www.sciencedirect.com/science/article/pii/S2352940725000460)
@@ -40,14 +40,14 @@ I am looking for self-motivated undergraduate students to join our Master's prog
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Futures</div><img src='images/ICCV2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Large-Scale Land Cover Mapping with Fine-Grained Classes via Class-Aware Semi-Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Dong_Large-Scale_Land_Cover_Mapping_with_Fine-Grained_Classes_via_Class-Aware_Semi-Supervised_ICCV_2023_paper.pdf)
+[Accelerating the Exploration of Thermal Materials via a Synergistic Strategy of DFT and Interpretable Deep Learning](https://arxiv.org/abs/2412.05948)
 
-**Runmin Dong**, Lichao Mou, Mengxuan Chen, Weijia Li, Xinyi Tong, Shuai Yuan, Lixian Zhang, Juepeng Zheng, Xiaoxiang Zhu, and Haohuan Fu\*
+**Yuxuan Zeng**, Wei Cao\*, Yijing Zuo, Tan Peng, Yue Hou, Ling Miao, Ziyu Wang\*, Jing Shi
 
-- *IEEE International Conference on Computer Vision (**ICCV**)*, 2023 (CCF-A, Acceptance rate: 26.8%)
+- *Materials Futures (**MF**)* (under review), 2025 (SCI Q1)
 
 </div>
 </div>
