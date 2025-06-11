@@ -27,7 +27,7 @@ I am looking for self-motivated undergraduate students to join our Master's prog
 # 📝 Publications 
 (\*Corresponding Author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APMT 2025</div><img src='images/paper1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APMT</div><img src='images/paper1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A machine learning-based framework for predicting the power factor of thermoelectric materials](https://www.sciencedirect.com/science/article/pii/S2352940725000460)
@@ -40,26 +40,28 @@ I am looking for self-motivated undergraduate students to join our Master's prog
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Futures</div><img src='images/ICCV2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Futures</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Accelerating the Exploration of Thermal Materials via a Synergistic Strategy of DFT and Interpretable Deep Learning](https://arxiv.org/abs/2412.05948)
 
 **Yuxuan Zeng**, Wei Cao\*, Yijing Zuo, Tan Peng, Yue Hou, Ling Miao, Ziyu Wang\*, Jing Shi
 
+[**Code and data**](https://github.com/FlorianTseng/LTC-modeling)
 - *Materials Futures (**MF**)* (under review), 2025 (SCI Q1)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS 2022</div><img src='images/ISPRS2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj CM</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Real-World Remote Sensing Image Super-Resolution via a Practical Degradation Model and a Kernel-Aware Network](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001824)
+[Accelerating Multi-Objective Collaborative Optimization of Doped Thermoelectric Materials via Artificial Intelligence](https://arxiv.org/abs/2504.08258)
 
-**Runmin Dong**, Lichao Mou\*, Lixian Zhang, Haohuan Fu\*, and Xiao Xiang Zhu\*
+**Yuxuan Zeng**, Wenhao Xie, Wei Cao\*, Tan Peng, Yue Hou, Ziyu Wang\*, Jing Shi
 
-- *ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)*, 2022 (SCI, Q1 TOP, IF=10.6)
+[**Code and data**](https://github.com/FlorianTseng/WaveTENet)
+- *npj Computational Materials (**npj CM**)* (under review), 2025 (SCI Q1, TOP)
 
 </div>
 </div>
