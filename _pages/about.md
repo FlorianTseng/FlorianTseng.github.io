@@ -24,21 +24,18 @@ My current research interests lie in remote sensing and computer vision. My rese
 
 I am looking for self-motivated undergraduate students to join our Master's program starting in 2025. Please feel free to contact me if you are interested!
 
-课题组招收2025年入学的硕士生，欢迎有兴趣的同学与我邮件联系！
-
-
 # 📝 Publications 
 (\*Corresponding Author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Building Bridges across Spatial and Temporal Resolutions: Reference-Based Super-Resolution via Change Priors and Conditional Diffusion Model](https://arxiv.org/abs/2403.17460)
+[A machine learning-based framework for predicting the power factor of thermoelectric materials](https://www.sciencedirect.com/science/article/pii/S2352940725000460)
 
-**Runmin Dong**, Shuai Yuan, Bin Luo, Mengxuan Chen, Jinxiao Zhang, Lixian Zhang, Weijia Li, Juepeng Zheng, Haohuan Fu\*
+**Yuxuan Zeng**, Wei Cao\*, Tan Peng, Yue Hou, Ling Miao, Ziyu Wang\*, Jing Shi
 
 [**Code and data**](https://github.com/dongrunmin/RefDiff)
-- *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2024 (CCF-A, Acceptance rate: 23.6%)
+- *Applied Materials Today (**APMT**)*, 2025 (SCI Q2)
 
 </div>
 </div>
