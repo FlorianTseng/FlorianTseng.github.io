@@ -34,7 +34,7 @@ I am looking for self-motivated undergraduate students to join our Master's prog
 
 **Yuxuan Zeng**, Wei Cao\*, Tan Peng, Yue Hou, Ling Miao, Ziyu Wang\*, Jing Shi
 
-[**Code and data**](https://github.com/dongrunmin/RefDiff)
+[**Code and data**](https://github.com/FlorianTseng/TE-PF-Prediction)
 - *Applied Materials Today (**APMT**)*, 2025 (SCI Q2)
 
 </div>
