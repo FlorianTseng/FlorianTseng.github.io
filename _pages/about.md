@@ -24,6 +24,10 @@ My current research interests lie in remote sensing and computer vision. My rese
 
 I am looking for self-motivated undergraduate students to join our Master's program starting in 2025. Please feel free to contact me if you are interested!
 
+# 📖 Educations
+- *2023.09 - 2026.06*, M. Sc. degree, The Institute of Technological Sciences, Wuhan University
+- *2019.09 - 2023.06*, B.S. degree, School of Information Engineering, Wuhan University of Technology
+
 # 📝 Publications 
 (\*Corresponding Author)
 
@@ -63,6 +67,7 @@ I am looking for self-motivated undergraduate students to join our Master's prog
 [**Code and data**](https://github.com/FlorianTseng/WaveTENet)
 - *npj Computational Materials (**npj CM**)* (under review), 2025 (SCI Q1, TOP)
 
+<!--
 </div>
 </div>
 
@@ -107,19 +112,14 @@ I am looking for self-motivated undergraduate students to join our Master's prog
 - *2023.06 - 2025.01*, Large-Factor Super-Resolution and Application of Remote Sensing Images Based on Progressive Reconstruction and Reference-Guided Texture Transfer. The China Postdoctoral Science Foundation. PI, ¥80,000 (主持中国博士后面上基金)
 - *2023.07 - 2024.07*, Pre-training and Segmentation Foundational Models for Remote Sensing Images. SenseTime. PI, ¥300,000 (支撑和主导商汤科技校企合作项目)
 
+-->
 
 # 🎖 Selected Honors and Awards
-- *2023.09*, First Prize and Bole Award of the Smart City Innovation Application Competition Empowered by Aerospace Information Technology, Chinese Society for Geodesy Photogrammetry and Cartography (中国测绘学会颁发的空天地信息技术赋能智慧城市创新应用大赛一等奖(最高奖项)、伯乐奖(仅两名))
-- *2022.07*, Shuimu Tsinghua Scholar, Tsinghua University (清华大学“水木学者”博士后人才项目)
-- *2022.06*, Excellent PhD Thesis Award, Tsinghua University (清华大学优秀博士毕业论文)
+- *2023.06*, Excellent BSc Thesis Award, Wuhan University of Technology (武汉理工大学优秀学士学位论文)
 - *2022.06*, Outstanding PhD Graduates Award, Tsinghua University（清华大学优秀博士毕业生）
 - *2021.09*, Beyond Fellow Scholarship, Technical University of Munich（慕尼黑工业大学访问学者资助项目）
 - *2020.10*, National Scholarship for Graduate Student, Tsinghua University（博士生国家奖学金）
 - *2019.08*, SenseTime Outstanding Intern, SenseTime (商汤科技优秀实习生)
-
-# 📖 Educations
-- *2023.09 - 2026.06*, M. Sc. degree, The Institute of Technological Sciences, Wuhan University
-- *2019.09 - 2023.06*, B.S. degree, School of Information Engineering, Wuhan University of Technology
 
 # 💻 Research Experience and Academic Services
 - *2022.07 – 2025.01*, Postdoc. Department of Earth System Science, Tsinghua University
