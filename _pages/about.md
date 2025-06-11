@@ -67,10 +67,11 @@ I am looking for self-motivated undergraduate students to join our Master's prog
 [**Code and data**](https://github.com/FlorianTseng/WaveTENet)
 - *npj Computational Materials (**npj CM**)* (under review), 2025 (SCI Q1, TOP)
 
-<!--
+
 </div>
 </div>
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2021</div><img src='images/TGRS2021-RefSR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
