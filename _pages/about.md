@@ -106,26 +106,31 @@ I am looking for self-motivated undergraduate students to join our Master's prog
 - **Runmin Dong**, Cong Li, Haohuan Fu\*, Jie Wang, Weijia Li, Yi Yao, Lin Gan, Le Yu, and Peng Gong\*. Improving 3-m Resolution Land Cover Mapping Through Efficient Learning from an Imperfect 10-m Resolution Map. *Remote Sensing*, 2020.
 - **Runmin Dong**, Weijia Li\*, Haohuan Fu, Lin Gan, and Maocai Xia. Oil Palm Plantation Mapping from High-Resolution Remote Sensing Images Using Deep Learning. *International Journal of Remote Sensing*, 2019. -->
 
-
+<!--
 # 🌟 Fundings and Projects
 - *2023.12 - 2026.11*, Highly Scalable Parallel and Intelligent Computing Technologies for High-Resolution Regional Climate Models. National Key Research and Development Plan of China. Subtask Leader, ¥450,000 (国家重点研发计划子课题负责人)
 - *2024.01 - 2025.12*, Fine-Grained Land Cover Classification Based on Reliable Fusion and Label Generation. The Young Scientists Fund of the National Natural Science Foundation of China. PI, ¥200,000 (主持国家自然科学基金青年基金)
 - *2023.06 - 2025.01*, Large-Factor Super-Resolution and Application of Remote Sensing Images Based on Progressive Reconstruction and Reference-Guided Texture Transfer. The China Postdoctoral Science Foundation. PI, ¥80,000 (主持中国博士后面上基金)
 - *2023.07 - 2024.07*, Pre-training and Segmentation Foundational Models for Remote Sensing Images. SenseTime. PI, ¥300,000 (支撑和主导商汤科技校企合作项目)
+-->
 
 # 🎖 Selected Honors and Awards
 - *2023.06*, Excellent BSc Thesis Award, Wuhan University of Technology (武汉理工大学优秀学士学位论文)
-- *2022.06*, Outstanding PhD Graduates Award, Tsinghua University（清华大学优秀博士毕业生）
-- *2021.09*, Beyond Fellow Scholarship, Technical University of Munich（慕尼黑工业大学访问学者资助项目）
-- *2020.10*, National Scholarship for Graduate Student, Tsinghua University（博士生国家奖学金）
-- *2019.08*, SenseTime Outstanding Intern, SenseTime (商汤科技优秀实习生)
+- *2021.10*, Third Prize, Undergraduate Group, 11th MathorCup Mathematical Modeling Challenge (第十一届MathorCup高校数学建模挑战赛本科组三等奖)
+- *2022.06*, Third-class Scholarship, Wuhan University of Technology (武汉理工大学三等奖学金, 2021–2022)
+- *2021.06*, Second-class Scholarship, Wuhan University of Technology (武汉理工大学二等奖学金, 2020–2021)
+- *2022.06*, Merit Student of the School, Wuhan University of Technology (武汉理工大学院三好学生, 2021–2022)
+- *2021.06*, Merit Student of the University, Wuhan University of Technology (武汉理工大学校三好学生, 2020–2021)
+- *2020.06*, Merit Student of the School, Wuhan University of Technology (武汉理工大学院三好学生, 2019–2020)
 
+<!--
 # 💻 Research Experience and Academic Services
 - *2022.07 – 2025.01*, Postdoc. Department of Earth System Science, Tsinghua University
 - *2024.07 – 2025.02*, Visiting Postdoctoral Researcher. The University of Hong Kong
 - *2021.06 - 2022.12*, Guest Editor. Special Issue on Deep Learning in Remote Sensing Application, Remote Sensing
 - *2018.02 – 2021.06*, Teaching Assistant. Geoscience Big Data Analysis Course for Undergraduate Students, Tsinghua University
 - *2020.01 – Present*, Reviewer. NeurIPS, ISPRS, IEEE TGRS, ACM MM, IEEE GRSL, SRS, JSTARS, RS, IJDE, IJRS, etc.
+
 
 # 💬 Talks and Presentations
 - *2024.06*, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, USA (Poster)
@@ -136,3 +141,4 @@ I am looking for self-motivated undergraduate students to join our Master's prog
 - *2021.07*, IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Online (Oral)
 - *2020.10*, [IEEE GRSS Webinar](https://www.grss-ieee.org/events/deep-learning-for-remote-sensing-image-analysis-applications-methods-and-perspectives/), Online (Invited Talk)
 - *2019.10*, IEEE International Conference on Computer Vision Workshop (ICCVW), Seoul, Korea (Oral)
+-->
