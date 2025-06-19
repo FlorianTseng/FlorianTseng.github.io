@@ -121,7 +121,7 @@ If you're interested in my work, feel free to reach out!
 - *2023.07 - 2024.07*, Pre-training and Segmentation Foundational Models for Remote Sensing Images. SenseTime. PI, ¥300,000 (支撑和主导商汤科技校企合作项目)
 -->
 
-# 🎖 Selected Honors and Awards
+# 🥇 Selected Honors and Awards
 - *2023.06*, Excellent BSc Thesis Award, Wuhan University of Technology (武汉理工大学优秀学士学位论文)
 - *2021.10*, Third Prize, Undergraduate Group, 11th MathorCup Mathematical Modeling Challenge (第十一届MathorCup高校数学建模挑战赛本科组三等奖)
 - *2022.06*, Third-class Scholarship, Wuhan University of Technology (武汉理工大学三等奖学金, 2021–2022)
