@@ -17,12 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Associate Professor at Sun Yat-Sen University. Previously, I was a Post-doc Researcher
-at the Department of Earth System Science of Tsinghua University. I received the Ph.D. degree with honour from Tsinghua University, advised by [Prof. Haohuan Fu](http://www.thuhpgc.net/mediawiki/index.php/Haohuan_Fu). I have also spent time at [Prof. Xiao Xiang Zhu](https://www.asg.ed.tum.de/sipeo/team/zhu/)'s lab in Technical University of Munich (TUM) and [Prof. Bin Chen's lab](https://fuse-lab-site.webflow.io) in the University of Hong Kong (HKU).
+## 👋 About Me
 
-My current research interests lie in remote sensing and computer vision. My research started from large-scale land cover mapping, aiming to improve resolution and accuracy within fine-grained classification systems through AI techniques. Key technologies in this project include image super-resolution, multi-source data fusion, self-supervised and weakly supervised learning, semantic segmentation, etc. Building on the advancements in land cover mapping products, I am trying to understand the land cover changes on the Earth and the patterns of urban development. My research vision is to leverage AI to establish innovative paradigms for Earth observation applications and derive fresh scientific insights for sustainable human development.
+I am currently a Master's student at the School of Industrial Science, Wuhan University. Previously, I completed my undergraduate studies in Communication Engineering at the School of Information Engineering, Wuhan University of Technology.
 
-I am looking for self-motivated undergraduate students to join our Master's program starting in 2025. Please feel free to contact me if you are interested!
+My research interests are broad and interdisciplinary, encompassing **AI for Science**, **interpretable machine learning**, **graph neural networks**, **computational materials science**, **medical AI**, and **thermoelectric materials and devices**. I am particularly passionate about leveraging artificial intelligence to advance natural science and healthcare research.
+
+- **AI-driven data science** is a new paradigm in scientific discovery, significantly accelerating the exploration of materials space;
+- I also explore the application of AI methods in **biomedical research**, aiming to uncover hidden associations between diseases and physiological characteristics;
+- **Thermoelectric materials and devices** show great promise as power supplies and sensors. When integrated with signal processing techniques, they offer exciting potential in **health monitoring and energy harvesting**.
+
+I am currently preparing my application for **PhD programs starting in Fall 2026**.  
+If you're interested in my work, feel free to reach out!  
+[👉📧 Email me](mailto:florian@whu.edu.cn)
 
 # 📖 Educations
 - *2023.09 - 2026.06*, M. Sc. degree, The Institute of Technological Sciences, Wuhan University
