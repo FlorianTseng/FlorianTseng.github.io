@@ -19,7 +19,7 @@ redirect_from:
 
 ## 👋 About Me
 
-I am currently a Master's student at the School of Industrial Science, Wuhan University. Previously, I completed my undergraduate studies in Communication Engineering at the School of Information Engineering, Wuhan University of Technology.
+I am currently a Master's student at the Institute of Technological Sciences, Wuhan University. Previously, I completed my undergraduate studies in Communication Engineering at the School of Information Engineering, Wuhan University of Technology.
 
 My research interests are broad and interdisciplinary, encompassing **AI for Science**, **interpretable machine learning**, **graph neural networks**, **computational materials science**, **medical AI**, and **thermoelectric materials and devices**. I am particularly passionate about leveraging artificial intelligence to advance natural science and healthcare research.
 
