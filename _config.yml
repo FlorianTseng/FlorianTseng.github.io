@@ -19,7 +19,9 @@ google_site_verification :  "https://scholar.google.com/citations?user=obJPkcYAA
 
 # Site Author
 author:
-  name             : "Yuxuan Zeng (曾宇轩)"
+  name             : >
+    Yuxuan Zeng
+    曾宇轩
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Postgraduate student, The Institute of Technological Sciences, Wuhan University"
   location         : "Wuhan, China"
