@@ -34,7 +34,7 @@ If you're interested in my work, feel free to reach out!
 # 📖 Educations
 - *2023.09 - 2026.06*, M. Sc. degree, The Institute of Technological Sciences, Wuhan University
 - *2019.09 - 2023.06*, B.S. degree, School of Information Engineering, Wuhan University of Technology
-
+- *2016.09 - 2029.06*, High school, Ouhai Middle School, Zhejiang Province
 # 📝 Publications 
 (\*Corresponding Author)
 
