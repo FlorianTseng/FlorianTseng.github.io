@@ -27,7 +27,7 @@ My research interests are broad and interdisciplinary, encompassing **AI for Sci
 - I also explore the application of AI methods in **biomedical research**, aiming to uncover hidden associations between diseases and physiological characteristics;
 - **Thermoelectric materials and devices** show great promise as power supplies and sensors. When integrated with signal processing techniques, they offer exciting potential in **health monitoring and energy harvesting**.
 
-I am currently preparing my application for **PhD programs starting in Fall 2026**.  
+I am currently preparing my **2026 PhD applications**!
 If you're interested in my work, feel free to reach out!  
 [👉📧 Email me](mailto:florian@whu.edu.cn)
 
