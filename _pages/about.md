@@ -51,15 +51,15 @@ If you're interested in my work, feel free to reach out!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Futures</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Futures</div><img src='images/5488c62bc07cdbe7cc1b11a59884b7ea.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Accelerating the Exploration of Thermal Materials via a Synergistic Strategy of DFT and Interpretable Deep Learning](https://arxiv.org/abs/2412.05948)
+[Accelerating the discovery of materials with expected thermal conductivity via a synergistic strategy of DFT and interpretable deep learning]([https://arxiv.org/abs/2412.05948](https://iopscience.iop.org/article/10.1088/2752-5724/ae08d0))
 
 **Yuxuan Zeng**, Wei Cao\*, Yijing Zuo, Tan Peng, Yue Hou, Ling Miao, Ziyu Wang\*, Jing Shi
 
 [**Code and data**](https://github.com/FlorianTseng/LTC-modeling)
-- *Materials Futures (**MF**)* (under review), 2025 (SCI Q1)
+- *Materials Futures (**MF**)*, 2025 (SCI Q1)
 
 </div>
 </div>
