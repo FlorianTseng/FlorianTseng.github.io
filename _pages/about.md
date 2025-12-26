@@ -87,6 +87,9 @@ If you're interested in my work, feel free to reach out!
 [**Code and data**](https://github.com/FlorianTseng/mPAP-Pred)
 - *npj Digital Medicine (**npj Digit. Med.**)*, 2025 (SCI Q1)
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR Applied</div><img src='images/crystal-graph.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
