@@ -87,6 +87,15 @@ If you're interested in my work, feel free to reach out!
 [**Code and data**](https://github.com/FlorianTseng/mPAP-Pred)
 - *npj Digital Medicine (**npj Digit. Med.**)*, 2025 (SCI Q1)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR Applied</div><img src='images/crystal-graph.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning Thermoelectric Transport from Crystal Structures via Multiscale Graph Neural Network](https://doi.org/10.48550/arXiv.2512.06697)
+
+**Yuxuan Zeng**, Wei Cao, Yijing Zuo, Fang Lyu, Wenhao Xie, Tan Peng, Yue Hou, Ling Miao, Ziyu Wang, Jing Shi
+
+[**Code and data**](https://github.com/FlorianTseng/TECSA-GNN)
+- *Physical Review Applied (**Phys. Rev. Appl.**)* (under review), 2025 (SCI Q2)
 
 </div>
 </div>
