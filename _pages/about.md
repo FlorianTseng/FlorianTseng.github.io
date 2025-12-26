@@ -92,7 +92,7 @@ If you're interested in my work, feel free to reach out!
 
 [Learning Thermoelectric Transport from Crystal Structures via Multiscale Graph Neural Network](https://doi.org/10.48550/arXiv.2512.06697)
 
-**Yuxuan Zeng**, Wei Cao, Yijing Zuo, Fang Lyu, Wenhao Xie, Tan Peng, Yue Hou, Ling Miao, Ziyu Wang, Jing Shi
+**Yuxuan Zeng**, Wei Cao\*, Yijing Zuo, Fang Lyu, Wenhao Xie, Tan Peng, Yue Hou, Ling Miao, Ziyu Wang\*, Jing Shi
 
 [**Code and data**](https://github.com/FlorianTseng/TECSA-GNN)
 - *Physical Review Applied (**Phys. Rev. Appl.**)* (under review), 2025 (SCI Q2)
