@@ -77,7 +77,7 @@ If you're interested in my work, feel free to reach out!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj DM</div><img src='images/5488c62bc07cdbe7cc1b11a59884b7ea.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj DM</div><img src='images/heatmap.jpg''images/hea.jpg''images/</div></div>
 <div class='paper-box-text' markdown="1">
 
 [Artificial intelligence-driven multivariate integration for pulmonary arterial pressure prediction in pulmonary hypertension](https://www.nature.com/articles/s41746-025-02233-6)
