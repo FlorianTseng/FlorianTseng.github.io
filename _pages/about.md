@@ -89,7 +89,7 @@ If you're interested in my work, feel free to reach out!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR Applied</div><img src='images/crystal-graph.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Phys. Rev. Appl.</div><img src='images/crystal-graph.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning Thermoelectric Transport from Crystal Structures via Multiscale Graph Neural Network](https://doi.org/10.48550/arXiv.2512.06697)
