@@ -17,28 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-## 👋 About Me
+## 👤 About Me
 
-I am currently a Master's student at the Institute of Technological Sciences, Wuhan University. Previously, I completed my undergraduate studies in Communication Engineering at the School of Information Engineering, Wuhan University of Technology.
+I am currently a Master's student at the School of Integrated Circuits, Wuhan University. Previously, I completed my undergraduate studies in Communication Engineering at the School of Information Engineering, Wuhan University of Technology.
 
-My research interests are broad and interdisciplinary, encompassing **AI for Science**, **interpretable machine learning**, **graph neural networks**, **computational materials science**, **medical AI**, and **thermoelectric materials and devices**. I am particularly passionate about leveraging artificial intelligence to advance natural science and healthcare research.
+My research interests are broad and interdisciplinary, encompassing **AI for Science**, **AI for Medicine**, and **thermoelectric devices**. I am particularly passionate about leveraging artificial intelligence to advance natural science and healthcare research.
 
 - **AI-driven data science** is a new paradigm in scientific discovery, significantly accelerating the exploration of materials space;
 - I also explore the application of AI methods in **biomedical research**, aiming to uncover hidden associations between diseases and physiological characteristics;
 - **Thermoelectric materials and devices** show great promise as power supplies and sensors. When integrated with signal processing techniques, they offer exciting potential in **health monitoring and energy harvesting**.
 
-I am currently preparing my **2026 PhD applications**!
 If you're interested in my work, feel free to reach out!  
 [👉📧 Email me](mailto:florian@whu.edu.cn)
 
 # 📖 Educations
-- *2023.09 - 2026.06*, M. Sc. degree, The Institute of Technological Sciences, Wuhan University
-- *2019.09 - 2023.06*, B.S. degree, School of Information Engineering, Wuhan University of Technology
+- *2023.09 - 2026.06*, M. Sc. degree, School of Integrated Circuits, Wuhan University
+- *2019.09 - 2023.06*, B. Sc. degree, School of Information Engineering, Wuhan University of Technology
 - *2016.09 - 2019.06*, High school, Ouhai Middle School, Zhejiang Province
 # 📝 Publications 
 (\*Corresponding Author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APMT</div><img src='images/paper1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Mater. Today</div><img src='images/paper1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A machine learning-based framework for predicting the power factor of thermoelectric materials](https://www.sciencedirect.com/science/article/pii/S2352940725000460)
@@ -46,12 +45,12 @@ If you're interested in my work, feel free to reach out!
 **Yuxuan Zeng**, Wei Cao\*, Tan Peng, Yue Hou, Ling Miao, Ziyu Wang\*, Jing Shi
 
 [**Code and data**](https://github.com/FlorianTseng/TE-PF-Prediction)
-- *Applied Materials Today (**APMT**)*, 2025 (SCI Q2)
+- *Applied Materials Today (**Appl. Mater. Today**)*, 2025 (SCI Q2)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Futures</div><img src='images/5488c62bc07cdbe7cc1b11a59884b7ea.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mater. Futures</div><img src='images/5488c62bc07cdbe7cc1b11a59884b7ea.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Accelerating the discovery of materials with expected thermal conductivity via a synergistic strategy of DFT and interpretable deep learning](https://iopscience.iop.org/article/10.1088/2752-5724/ae08d0)
@@ -59,12 +58,12 @@ If you're interested in my work, feel free to reach out!
 **Yuxuan Zeng**, Wei Cao\*, Yijing Zuo, Tan Peng, Yue Hou, Ling Miao, Ziyu Wang\*, Jing Shi
 
 [**Code and data**](https://github.com/FlorianTseng/LTC-modeling)
-- *Materials Futures (**MF**)*, 2025 (SCI Q1)
+- *Materials Futures (**Mater. Futures**)*, 2025 (SCI Q1)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj CM</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj Comput. Mater.</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Accelerating Multi-Objective Collaborative Optimization of Doped Thermoelectric Materials via Artificial Intelligence](https://arxiv.org/abs/2504.08258)
@@ -72,7 +71,7 @@ If you're interested in my work, feel free to reach out!
 **Yuxuan Zeng**, Wenhao Xie, Wei Cao\*, Tan Peng, Yue Hou, Ziyu Wang\*, Jing Shi
 
 [**Code and data**](https://github.com/FlorianTseng/WaveTENet)
-- *npj Computational Materials (**npj CM**)* (under review), 2025 (SCI Q1, TOP)
+- *npj Computational Materials (**npj Comput. Mater.**)* (under review), 2025 (SCI Q1, TOP)
 
 </div>
 </div>
