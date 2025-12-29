@@ -146,6 +146,7 @@ If you're interested in my work, feel free to reach out!
 -->
 
 # 🥇 Selected Honors and Awards
+- *2025.12*, ASML Scholarship of the School of Integrated Circuits, Wuhan University (武汉大学集成电路学院阿斯麦奖学金)
 - *2023.06*, Excellent BSc Thesis Award, Wuhan University of Technology (武汉理工大学优秀学士学位论文)
 - *2021.10*, Third Prize, Undergraduate Group, 11th MathorCup Mathematical Modeling Challenge (第十一届MathorCup高校数学建模挑战赛本科组三等奖)
 - *2022.06*, Third-class Scholarship, Wuhan University of Technology (武汉理工大学三等奖学金, 2021–2022)
