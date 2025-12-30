@@ -71,7 +71,7 @@ If you're interested in my work, feel free to reach out!
 **Yuxuan Zeng**, Wenhao Xie, Wei Cao\*, Tan Peng, Yue Hou, Ziyu Wang\*, Jing Shi
 
 [**Code and data**](https://github.com/FlorianTseng/WaveTENet)
-- *npj Computational Materials (**npj Comput. Mater.**)* (under review), 2025 (SCI Q1, TOP)
+- *npj Computational Materials (**npj Comput. Mater.**)* (under review), 2025 (SCI Q1)
 
 </div>
 </div>
