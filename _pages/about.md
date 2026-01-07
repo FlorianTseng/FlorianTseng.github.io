@@ -30,11 +30,12 @@ My research interests are broad and interdisciplinary, encompassing **AI for Sci
 If you're interested in my work, feel free to reach out!  
 [👉📧 Email me](mailto:florian@whu.edu.cn)
 
-# 📖 Educations
+## 📖 Educations
 - *2023.09 - 2026.06*, M. Sc. degree, School of Integrated Circuits, Wuhan University
 - *2019.09 - 2023.06*, B. Sc. degree, School of Information Engineering, Wuhan University of Technology
 - *2016.09 - 2019.06*, High school, Ouhai Middle School, Zhejiang Province
-# 📝 Publications 
+
+## 📝 Publications 
 (\*Corresponding Author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Mater. Today</div><img src='images/paper1.jpg' alt="sym" width="100%"></div></div>
@@ -145,7 +146,7 @@ If you're interested in my work, feel free to reach out!
 - *2023.07 - 2024.07*, Pre-training and Segmentation Foundational Models for Remote Sensing Images. SenseTime. PI, ¥300,000 (支撑和主导商汤科技校企合作项目)
 -->
 
-# 🥇 Selected Honors and Awards
+## 🥇 Selected Honors and Awards
 - *2025.12*, ASML Scholarship of the School of Integrated Circuits, Wuhan University (武汉大学集成电路学院阿斯麦奖学金)
 - *2023.06*, Excellent BSc Thesis Award, Wuhan University of Technology (武汉理工大学优秀学士学位论文)
 - *2021.10*, Third Prize, Undergraduate Group, 11th MathorCup Mathematical Modeling Challenge (第十一届MathorCup高校数学建模挑战赛本科组三等奖)
