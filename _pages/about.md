@@ -23,9 +23,11 @@ I am currently a Master's student at the School of Integrated Circuits, Wuhan Un
 
 My research interests are broad and interdisciplinary, encompassing **AI for Science**, **AI for Medicine**, and **thermoelectric devices**. I am particularly passionate about leveraging artificial intelligence to advance natural science and healthcare research.
 
+<!--
 - **AI-driven data science** is a new paradigm in scientific discovery, significantly accelerating the exploration of materials space;
 - I also explore the application of AI methods in **biomedical research**, aiming to uncover hidden associations between diseases and physiological characteristics;
 - **Thermoelectric materials and devices** show great promise as power supplies and sensors. When integrated with signal processing techniques, they offer exciting potential in **health monitoring and energy harvesting**.
+-->
 
 If you're interested in my work, feel free to reach out!  
 [👉📧 Email me](mailto:florian@whu.edu.cn)
@@ -43,6 +45,8 @@ If you're interested in my work, feel free to reach out!
 
 [A machine learning-based framework for predicting the power factor of thermoelectric materials](https://www.sciencedirect.com/science/article/pii/S2352940725000460)
 
+**Abstract**: Thermoelectric materials represent an innovative energy solution, capable of converting waste heat into usable electrical power. Recent advances have leveraged machine learning to identify new thermoelectric materials, yet challenges remain in balancing applicability, feature complexity, and interpretability. In this study, we introduce an interpretable framework based on ensemble learning and Magpie chemical element features to predict the power factor (PF) of various materials. Our approach yields approximate analytical expressions for PF using simple elemental features, providing both accuracy and transparency. We validate our predictions with density functional theory, successfully identifying two high-PF selenides as promising candidates for thermoelectric applications.
+
 **Yuxuan Zeng**, Wei Cao\*, Tan Peng, Yue Hou, Ling Miao, Ziyu Wang\*, Jing Shi
 
 [**Code and data**](https://github.com/FlorianTseng/TE-PF-Prediction)
@@ -56,6 +60,8 @@ If you're interested in my work, feel free to reach out!
 
 [Accelerating the discovery of materials with expected thermal conductivity via a synergistic strategy of DFT and interpretable deep learning](https://iopscience.iop.org/article/10.1088/2752-5724/ae08d0)
 
+**Abstract**: Lattice thermal conductivity (LTC) is a critical parameter for thermal transport properties, playing a pivotal role in advancing thermoelectric materials and thermal management technologies. Traditional computational methods, such as density functional theory (DFT) and molecular dynamics (MD), are resource-intensive, limiting their applicability for high-throughput LTC prediction. While AI-driven approaches have made significant strides in material science, the trade-off between accuracy and interpretability remains a major bottleneck. In this study, we introduce an interpretable deep learning framework that enables rapid and accurate LTC prediction, effectively bridging the gap between interpretability and precision. Leveraging this framework, we identify and validate four promising thermal conductors/insulators using DFT and MD. Moreover, by combining sensitivity analysis with DFT calculations, we uncover novel insights into phonon thermal transport mechanisms, providing a deeper understanding of the underlying physics. This work not only accelerates the discovery of thermal materials but also sets a new benchmark for interpretable AI in material science.
+
 **Yuxuan Zeng**, Wei Cao\*, Yijing Zuo, Tan Peng, Yue Hou, Ling Miao, Ziyu Wang\*, Jing Shi
 
 [**Code and data**](https://github.com/FlorianTseng/LTC-modeling)
@@ -68,6 +74,8 @@ If you're interested in my work, feel free to reach out!
 <div class='paper-box-text' markdown="1">
 
 [Accelerating Multi-Objective Collaborative Optimization of Doped Thermoelectric Materials via Artificial Intelligence](https://arxiv.org/abs/2504.08258)
+
+**Abstract**: The thermoelectric performance of materials exhibits complex nonlinear dependencies on both elemental types and their proportions, rendering traditional trial-and-error approaches inefficient and time-consuming for material discovery. In this work, we present a deep learning model capable of accurately predicting thermoelectric properties of doped materials directly from their chemical formulas, achieving state-of-the-art performance. To enhance interpretability, we further incorporate sensitivity analysis techniques to elucidate how physical descriptors affect the thermoelectric figure of merit ($zT$). Moreover, we establish a coupled framework that integrates a surrogate model with a multi-objective genetic algorithm to efficiently explore the vast compositional space for high-performance candidates. Experimental validation confirms the discovery of a novel thermoelectric material with superior $zT$ values in the medium-temperature regime.
 
 **Yuxuan Zeng**, Wenhao Xie, Wei Cao\*, Tan Peng, Yue Hou, Ziyu Wang\*, Jing Shi
 
@@ -84,6 +92,8 @@ If you're interested in my work, feel free to reach out!
 
 **Yuxuan Zeng**, Gonghao Ling, Haojie Zhang, Wei Cao, Xuan Zheng\*, Xiaoxian Deng, Lan Lan, Rongqing Sun, Xintian Liu, Lin Tian, Haibo Xu\*, Ziyu Wang\* & Gangcheng Zhang\* 
 
+**Abstract**: Reliable machine learning techniques have vast potential in assisting clinical decision-making, including applications in bioinformatics and medical imaging analysis. However, AI-driven medical research is often limited by data scarcity, data quality, and the black-box nature of machine learning models. Thus, there is an urgent need for reliable surrogate models to overcome these challenges, enabling accurate learning from small datasets to guide clinical diagnosis. Here, we conducted a retrospective observational clinical study and proposed a data-driven predictive model that estimates mean pulmonary artery pressure (mPAP) based on individual patient clinical diagnostic features, enabling accurate assessment of pulmonary hypertension. Furthermore, we innovatively incorporate CMR-related features into the disease evaluation framework. Compared to traditional invasive measurement methods, this framework can not only accurately predict a patient’s mPAP using easily accessible noninvasive physiological features but also incorporate uncertainty quantification to extract qualitative patterns, aiding clinical diagnosis.
+
 [**Code and data**](https://github.com/FlorianTseng/mPAP-Pred)
 - *npj Digital Medicine (**npj Digit. Med.**)*, 2025 (SCI Q1)
 
@@ -94,6 +104,8 @@ If you're interested in my work, feel free to reach out!
 <div class='paper-box-text' markdown="1">
 
 [Learning Thermoelectric Transport from Crystal Structures via Multiscale Graph Neural Network](https://doi.org/10.48550/arXiv.2512.06697)
+
+**Abstract**: Graph neural networks (GNNs) are designed to extract latent patterns from graph-structured data, making them particularly well suited for crystal representation learning. Here, we propose a GNN model tailored for estimating electronic transport coefficients in inorganic thermoelectric crystals. The model encodes crystal structures and physicochemical properties in a multiscale manner, encompassing global, atomic, bond, and angular levels. It achieves state-of-the-art performance on benchmark datasets with remarkable extrapolative capability. By combining the proposed GNN with *ab initio* calculations, we successfully identify compounds exhibiting outstanding electronic transport properties and further perform interpretability analyses from both global and atomic perspectives, tracing the origins of their distinct transport behaviors. Interestingly, the decision process of the model naturally reveals underlying physical patterns, offering new insights into computer-assisted materials design.
 
 **Yuxuan Zeng**, Wei Cao\*, Yijing Zuo, Fang Lyu, Wenhao Xie, Tan Peng, Yue Hou, Ling Miao, Ziyu Wang\*, Jing Shi
 
