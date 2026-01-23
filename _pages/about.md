@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently a Master's student at the School of Integrated Circuits, Wuhan University. Previously, I completed my undergraduate studies in Communication Engineering at the School of Information Engineering, Wuhan University of Technology.
 
-My research interests are broad and interdisciplinary, encompassing **AI for Science**, **AI for Medicine**, and **thermoelectric devices**. I am particularly passionate about leveraging artificial intelligence to advance natural science and healthcare research.
+My research interests are broad and interdisciplinary, encompassing **AI for Science**, **AI for Medicine**, and **Stochastic Physics**. I am particularly passionate about leveraging artificial intelligence to advance natural science and healthcare research.
 
 <!--
 - **AI-driven data science** is a new paradigm in scientific discovery, significantly accelerating the exploration of materials space;
