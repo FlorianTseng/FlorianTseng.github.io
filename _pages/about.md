@@ -33,8 +33,8 @@ If you're interested in my work, feel free to reach out!
 [👉📧 Email me](mailto:florian@whu.edu.cn)
 
 ## 📖 Educations
-- *2023.09 - 2026.06*, M. Sc. degree, School of Integrated Circuits, Wuhan University
-- *2019.09 - 2023.06*, B. Sc. degree, School of Information Engineering, Wuhan University of Technology
+- *2023.09 - 2026.06*, MPhil., School of Integrated Circuits, Wuhan University
+- *2019.09 - 2023.06*, Bachelor, School of Information Engineering, Wuhan University of Technology
 - *2016.09 - 2019.06*, High school, Ouhai Middle School, Zhejiang Province
 
 ## 📝 Publications 
