@@ -19,7 +19,7 @@ redirect_from:
 
 ## 👤 About Me
 
-I am currently a MPhil student at the School of Integrated Circuits, Wuhan University. Previously, I completed my undergraduate studies in Communication Engineering at the School of Information Engineering, Wuhan University of Technology.
+I am currently a master student at the School of Integrated Circuits, Wuhan University. Previously, I completed my undergraduate studies in Telecommunication Engineering at the School of Information Engineering, Wuhan University of Technology.
 
 My research interests are broad and interdisciplinary, encompassing **AI for Physics** and **AI for Medicine**. I am particularly passionate about leveraging artificial intelligence to advance natural science and healthcare research.
 
@@ -29,11 +29,11 @@ My research interests are broad and interdisciplinary, encompassing **AI for Phy
 - **Thermoelectric materials and devices** show great promise as power supplies and sensors. When integrated with signal processing techniques, they offer exciting potential in **health monitoring and energy harvesting**.
 -->
 
-If you're interested in my work, feel free to reach out!  
-[👉📧 Email me](mailto:florian@whu.edu.cn)
+If you're interested in my work, feel free to reach out.  
+[📧 Email me](mailto:florian@whu.edu.cn)
 
 ## 📖 Educations
-- *2023.09 - 2026.06*, MPhil., School of Integrated Circuits, Wuhan University
+- *2023.09 - 2026.06*, Master, School of Integrated Circuits, Wuhan University
 - *2019.09 - 2023.06*, Bachelor, School of Information Engineering, Wuhan University of Technology
 - *2016.09 - 2019.06*, High school, Ouhai Middle School, Zhejiang Province
 
