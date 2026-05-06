@@ -33,8 +33,8 @@ If you're interested in my work, feel free to reach out.
 [📧 Email me](mailto:florian@whu.edu.cn)
 
 ## 🏫 Educations
-- *2023.09 - 2026.06*, Master, School of Integrated Circuits, Wuhan University
-- *2019.09 - 2023.06*, Bachelor, School of Information Engineering, Wuhan University of Technology
+- *2023.09 - 2026.06*, Master of *Electronic Science & Technology*, School of Integrated Circuits, Wuhan University
+- *2019.09 - 2023.06*, Bachelor of *Telecommunication Engineering*, School of Information Engineering, Wuhan University of Technology
 - *2016.09 - 2019.06*, High school, Ouhai Middle School, Zhejiang Province
 
 ## 📚 Publications 
@@ -115,7 +115,7 @@ If you're interested in my work, feel free to reach out.
 **Yuxuan Zeng**, Wei Cao\*, Yijing Zuo, Fang Lyu, Wenhao Xie, Tan Peng, Yue Hou, Ling Miao, Ziyu Wang\*, Jing Shi
 
 [**Code and data**](https://github.com/FlorianTseng/TECSA-GNN)
-- *Physical Review Applied (**Phys. Rev. Appl.**)* (under review), 2025 (SCI Q2)
+- *Physical Review Applied (**Phys. Rev. Appl.**)* (under review), 2026 (SCI Q2)
 
 </div>
 </div>
@@ -173,8 +173,6 @@ If you're interested in my work, feel free to reach out.
 - *2021.06*, Merit Student of the University, Wuhan University of Technology (武汉理工大学校三好学生, 2020–2021)
 - *2020.06*, Merit Student of the School, Wuhan University of Technology (武汉理工大学院三好学生, 2019–2020)
 
-</div>
-</div>
 
 ## 🧑‍⚖️ Academic Service
 - *2026.04*, Joint peer review for *Materials & Design*
