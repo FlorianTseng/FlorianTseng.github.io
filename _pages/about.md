@@ -173,6 +173,9 @@ If you're interested in my work, feel free to reach out.
 - *2021.06*, Merit Student of the University, Wuhan University of Technology (武汉理工大学校三好学生, 2020–2021)
 - *2020.06*, Merit Student of the School, Wuhan University of Technology (武汉理工大学院三好学生, 2019–2020)
 
+</div>
+</div>
+
 ## 🧑‍⚖️ Academic Service
 - *2026.04*, Joint peer review for *Materials & Design*
 - *2026.03*, Peer reviewer for *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*
