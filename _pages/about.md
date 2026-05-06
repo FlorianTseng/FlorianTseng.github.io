@@ -32,12 +32,12 @@ My research interests are broad and interdisciplinary, encompassing **AI for Phy
 If you're interested in my work, feel free to reach out.  
 [📧 Email me](mailto:florian@whu.edu.cn)
 
-## 📖 Educations
+## 🏫 Educations
 - *2023.09 - 2026.06*, Master, School of Integrated Circuits, Wuhan University
 - *2019.09 - 2023.06*, Bachelor, School of Information Engineering, Wuhan University of Technology
 - *2016.09 - 2019.06*, High school, Ouhai Middle School, Zhejiang Province
 
-## 📝 Publications 
+## 📚 Publications 
 (\*Corresponding Author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Mater. Today</div><img src='images/paper1.jpg' alt="sym" width="100%"></div></div>
@@ -172,6 +172,13 @@ If you're interested in my work, feel free to reach out.
 - *2022.06*, Merit Student of the School, Wuhan University of Technology (武汉理工大学院三好学生, 2021–2022)
 - *2021.06*, Merit Student of the University, Wuhan University of Technology (武汉理工大学校三好学生, 2020–2021)
 - *2020.06*, Merit Student of the School, Wuhan University of Technology (武汉理工大学院三好学生, 2019–2020)
+
+## 🧑‍⚖️ Academic Service
+- *2026.04*, Joint peer review for *Materials & Design*
+- *2026.03*, Peer reviewer for *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*
+- *2026.02*, Peer reviewer for *Information Processing in Agriculture*
+- *2026.02*, Joint peer review for *Materials Today Communications*
+- *2025.08*, Joint peer review for *Applied Thermal Engineering*
 
 <!--
 # 💻 Research Experience and Academic Services
