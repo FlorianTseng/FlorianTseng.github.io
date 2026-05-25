@@ -19,23 +19,17 @@ redirect_from:
 
 ## 👤 About Me
 
-I am currently a master student at the School of Integrated Circuits, Wuhan University. Previously, I completed my undergraduate studies in Telecommunication Engineering at the School of Information Engineering, Wuhan University of Technology.
+I am currently a PhD candidate at the School of Artificial Intelligence and Data Science, University of Science and Technology of China. Previously, I completed my M. Sc. studies at the School of Integrated Circuits, Wuhan University.
 
-My research interests are broad and interdisciplinary, encompassing **AI for Physics** and **AI for Medicine**. I am particularly passionate about leveraging artificial intelligence to advance natural science and healthcare research.
-
-<!--
-- **AI-driven data science** is a new paradigm in scientific discovery, significantly accelerating the exploration of materials space;
-- I also explore the application of AI methods in **biomedical research**, aiming to uncover hidden associations between diseases and physiological characteristics;
-- **Thermoelectric materials and devices** show great promise as power supplies and sensors. When integrated with signal processing techniques, they offer exciting potential in **health monitoring and energy harvesting**.
--->
+My research interests are broad and interdisciplinary, encompassing **AI for Physics**, **Physics for AI** and **AI for Medicine**. I am particularly passionate about leveraging artificial intelligence to advance natural science and healthcare research.
 
 If you're interested in my work, feel free to reach out.  
 [📧 Email me](mailto:florian@whu.edu.cn)
 
 ## 🏫 Educations
-- *2026.09 - Present*, Doctor of *Artificial-Intelligence Science & Technology*, School of Artificial Intelligence and Data Science, University of Science and Technology of China, Supervisor: [Prof. Zhicheng Zhong](https://ai4s.work/zhichengzhong/).
-- *2023.09 - 2026.06*, Master of *Electronic Science & Technology*, School of Integrated Circuits, Wuhan University.
-- *2019.09 - 2023.06*, Bachelor of *Telecommunication Engineering*, School of Information Engineering, Wuhan University of Technology.
+- *2026.09 - Present*, PhD in *Intelligence Science & Technology*, School of Artificial Intelligence and Data Science, University of Science and Technology of China, Supervisor: [Prof. Zhicheng Zhong](https://ai4s.work/zhichengzhong/).
+- *2023.09 - 2026.06*, M. Sc. in *Electronic Science & Technology*, School of Integrated Circuits, Wuhan University.
+- *2019.09 - 2023.06*, B. Sc. in *Telecommunication Engineering*, School of Information Engineering, Wuhan University of Technology.
 - *2016.09 - 2019.06*, High school, Ouhai Middle School, Zhejiang Province.
 
 ## 📚 Publications 
