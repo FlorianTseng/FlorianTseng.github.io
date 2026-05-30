@@ -19,17 +19,16 @@ redirect_from:
 
 ## 👤 About Me
 
-I am currently a PhD candidate at the School of Artificial Intelligence and Data Science, University of Science and Technology of China. Previously, I completed my M. Sc. studies at the School of Integrated Circuits, Wuhan University.
+I am currently a PhD candidate at the School of Artificial Intelligence and Data Science, University of Science and Technology of China. Previously, I completed my M.Sc. and B.Sc. degrees at Wuhan University and Wuhan University of Technology, respectively.
 
 My research interests are broad and interdisciplinary, encompassing **AI for Physics**, **Physics for AI** and **AI for Medicine**. I am particularly passionate about leveraging artificial intelligence to advance natural science and healthcare research.
 
-If you're interested in my work, feel free to reach out.  
-[📧 Email me](mailto:florian@whu.edu.cn)
+If you're interested in my work, feel free to reach out. [📧 Email me](mailto:florian@whu.edu.cn)
 
 ## 🏫 Educations
 - *2026.09 - Present*, PhD in *Intelligence Science & Technology*, School of Artificial Intelligence and Data Science, University of Science and Technology of China. Supervisor: [Prof. Zhicheng Zhong](https://ai4s.work/zhichengzhong/).
-- *2023.09 - 2026.06*, M. Sc. in *Electronic Science & Technology*, School of Integrated Circuits, Wuhan University. Supervisor: [Prof. Ziyu Wang](https://technology.whu.edu.cn/info/1015/1888.htm).
-- *2019.09 - 2023.06*, B. Sc. in *Communications Engineering*, School of Information Engineering, Wuhan University of Technology.
+- *2023.09 - 2026.06*, M.Sc. in *Electronic Science & Technology*, School of Integrated Circuits, Wuhan University.
+- *2019.09 - 2023.06*, B.Sc. in *Communications Engineering*, School of Information Engineering, Wuhan University of Technology.
 - *2016.09 - 2019.06*, High-school, Ouhai Middle School, Wenzhou, Zhejiang Province.
 
 ## 📚 Publications 
