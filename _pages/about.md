@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently a PhD candidate at the School of Artificial Intelligence and Data Science, University of Science and Technology of China. Previously, I completed my M.Sc. and B.Sc. degrees at Wuhan University and Wuhan University of Technology, respectively.
 
-My research interests are broad and interdisciplinary, encompassing **AI for Physics**, **Physics for AI** and **AI for Medicine**. I am particularly passionate about leveraging artificial intelligence to advance natural science and healthcare research.
+My research interests are broad and interdisciplinary, encompassing **AI for Physics**, **Physics for AI**, **Computational Physics/Chemistry** and **AI for Medicine**. I am particularly passionate about leveraging artificial intelligence to advance natural science and healthcare research.
 
 If you're interested in my work, feel free to reach out. [📧 Email me](mailto:florian@whu.edu.cn)
 
