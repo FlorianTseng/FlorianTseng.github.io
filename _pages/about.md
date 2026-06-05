@@ -102,7 +102,7 @@ If you're interested in my work, feel free to reach out. [📧 Email me](mailto:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Phys. Rev. Appl.</div><img src='images/crystal-graph.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning Thermoelectric Transport from Crystal Structures via Multiscale Graph Neural Network](https://doi.org/10.48550/arXiv.2512.06697)
+[Learning Thermoelectric Transport from Crystal Structures via Multiscale Graph Neural Network](https://doi.org/10.1103/m8nb-bbp8)
 
 **Abstract**: Graph neural networks (GNNs) are designed to extract latent patterns from graph-structured data, making them particularly well suited for crystal representation learning. Here, we propose a GNN model tailored for estimating electronic transport coefficients in inorganic thermoelectric crystals. The model encodes crystal structures and physicochemical properties in a multiscale manner, encompassing global, atomic, bond, and angular levels. It achieves state-of-the-art performance on benchmark datasets with remarkable extrapolative capability. By combining the proposed GNN with *ab initio* calculations, we successfully identify compounds exhibiting outstanding electronic transport properties and further perform interpretability analyses from both global and atomic perspectives, tracing the origins of their distinct transport behaviors. Interestingly, the decision process of the model naturally reveals underlying physical patterns, offering new insights into computer-assisted materials design.
 
