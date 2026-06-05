@@ -109,7 +109,7 @@ If you're interested in my work, feel free to reach out. [📧 Email me](mailto:
 **Yuxuan Zeng**, Wei Cao\*, Yijing Zuo, Fang Lyu, Wenhao Xie, Tan Peng, Yue Hou, Ling Miao, Ziyu Wang\*, Jing Shi
 
 [**Code and data**](https://github.com/FlorianTseng/TECSA-GNN)
-- *Physical Review Applied (**Phys. Rev. Appl.**)* (under review), 2026 (SCI Q2)
+- *Physical Review Applied (**Phys. Rev. Appl.**)* (accepted), 2026 (SCI Q2)
 
 </div>
 </div>
