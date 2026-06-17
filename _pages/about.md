@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently a PhD student at the School of Artificial Intelligence and Data Science, University of Science and Technology of China. Previously, I completed my M.Sc. and B.Sc. degrees at Wuhan University and Wuhan University of Technology, respectively.
 
-My research interests are broad and interdisciplinary, encompassing **AI for Physics**, **Physics for AI**, **Computational Physics/Chemistry** and **AI for Medicine**. I am particularly passionate about leveraging artificial intelligence to advance natural science and healthcare research.
+My research interests are broad and interdisciplinary, including **AI for Physics**, **Physics of AI**, **Computational Physics/Chemistry** and **AI for Medicine**. I am particularly passionate about using artificial intelligence to advance science and health research.
 
 If you're interested in my work, feel free to reach out. [📧 Email me](mailto:florian@whu.edu.cn)
 
@@ -67,7 +67,7 @@ If you're interested in my work, feel free to reach out. [📧 Email me](mailto:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj Comput. Mater.</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Accelerating Multi-Objective Collaborative Optimization of Doped Thermoelectric Materials via Artificial Intelligence](https://arxiv.org/abs/2504.08258)
@@ -77,7 +77,7 @@ If you're interested in my work, feel free to reach out. [📧 Email me](mailto:
 **Yuxuan Zeng**, Wenhao Xie, Wei Cao\*, Tan Peng, Yue Hou, Ziyu Wang\*, Jing Shi
 
 [**Code and data**](https://github.com/FlorianTseng/WaveTENet)
-- *npj Computational Materials (**npj Comput. Mater.**)* (under review), 2025 (SCI Q1)
+- *Preprint*, 2025.
 
 </div>
 </div>
