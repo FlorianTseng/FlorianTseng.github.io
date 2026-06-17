@@ -55,7 +55,22 @@
         display: flex;
         width: 100%;
         order: 2;
+        position: relative;
+        z-index: 1;
+
+        > div {
+            position: relative;
+            display: inline-block;
+            width: 100%;
+            max-width: 400px;
+            z-index: 0;
+        }
+
         img {
+            display: block;
+            position: relative;
+            z-index: 1;
+            width: 100%;
             max-width: 400px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
@@ -98,15 +113,17 @@ h1:before, .anchor:before {
 }
 
 .badge {
+    position: absolute;
+    top: .5em;
+    left: -.5em;
+    z-index: 20;
+    margin: 0;
     padding-left: 1rem;
     padding-right: 1rem;
-    position: absolute;
-    z-index: 10;
-    margin-top: .5em;
-    margin-left: -.5em;
     color: white;
     background-color: #00369f;
     font-size: .8em;
+    pointer-events: none;
 }
 
 .masthead__menu {
