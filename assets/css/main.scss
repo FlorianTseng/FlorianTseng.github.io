@@ -8,7 +8,7 @@
  *  - mademistakes.com
  *  - https://twitter.com/mmistakes
  *
-*/
+ */
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
@@ -108,3 +108,195 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+.masthead__menu {
+    position: relative;
+    padding-right: 5.75rem;
+}
+
+.theme-toggle {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    display: inline-flex;
+    align-items: center;
+    gap: .35rem;
+    transform: translateY(-50%);
+    min-height: 2.1rem;
+    padding: .35rem .7rem;
+    border: 1px solid #d7d7d7;
+    border-radius: 999px;
+    background: #ffffff;
+    color: #252a34;
+    font-family: inherit;
+    font-size: .78rem;
+    line-height: 1;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, .08);
+    transition: background-color .2s ease, border-color .2s ease, color .2s ease, box-shadow .2s ease;
+}
+
+.theme-toggle:hover,
+.theme-toggle:focus {
+    border-color: #8a8f98;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, .12);
+}
+
+.theme-toggle__icon {
+    font-size: .9rem;
+}
+
+@media (max-width: 480px) {
+    .masthead__menu {
+        padding-right: 3.25rem;
+    }
+
+    .theme-toggle {
+        min-height: 2rem;
+        padding: .35rem .55rem;
+    }
+
+    .theme-toggle__text {
+        display: none;
+    }
+}
+
+html[data-theme="dark"] body {
+    background: #0f1117;
+    color: #d9e1ee;
+}
+
+html[data-theme="dark"] #main,
+html[data-theme="dark"] .page,
+html[data-theme="dark"] .page__inner-wrap,
+html[data-theme="dark"] .page__content,
+html[data-theme="dark"] .archive,
+html[data-theme="dark"] .sidebar,
+html[data-theme="dark"] .author__content,
+html[data-theme="dark"] .author__urls-wrapper,
+html[data-theme="dark"] .author__urls,
+html[data-theme="dark"] .list__item,
+html[data-theme="dark"] .entries-list {
+    background: #0f1117;
+    color: #d9e1ee;
+}
+
+html[data-theme="dark"] .masthead {
+    background: rgba(15, 17, 23, .96);
+    border-bottom-color: #2a2f3a;
+}
+
+html[data-theme="dark"] .greedy-nav {
+    background: transparent;
+}
+
+html[data-theme="dark"] .greedy-nav a,
+html[data-theme="dark"] .masthead__menu-item a,
+html[data-theme="dark"] .author__name,
+html[data-theme="dark"] .author__bio,
+html[data-theme="dark"] .page__title,
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3,
+html[data-theme="dark"] h4,
+html[data-theme="dark"] h5,
+html[data-theme="dark"] h6,
+html[data-theme="dark"] strong {
+    color: #eef3ff;
+}
+
+html[data-theme="dark"] a {
+    color: #8ab4f8;
+}
+
+html[data-theme="dark"] a:hover,
+html[data-theme="dark"] .greedy-nav a:hover {
+    color: #b8cdfd;
+}
+
+html[data-theme="dark"] .greedy-nav .visible-links a:before {
+    background: #6ea8fe;
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links {
+    background: #161a23;
+    border-color: #2a2f3a;
+    box-shadow: 0 0 14px rgba(0, 0, 0, .45);
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links:before {
+    border-color: #2a2f3a transparent;
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links:after {
+    border-color: #161a23 transparent;
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links li,
+html[data-theme="dark"] .paper-box,
+html[data-theme="dark"] .page__content + .pagination,
+html[data-theme="dark"] .page__meta + .pagination,
+html[data-theme="dark"] .page__share + .pagination,
+html[data-theme="dark"] .page__comments + .pagination {
+    border-color: #2a2f3a;
+}
+
+html[data-theme="dark"] .theme-toggle {
+    background: #1a1f2b;
+    border-color: #394150;
+    color: #eef3ff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, .32);
+}
+
+html[data-theme="dark"] .theme-toggle:hover,
+html[data-theme="dark"] .theme-toggle:focus {
+    border-color: #6ea8fe;
+    box-shadow: 0 3px 14px rgba(0, 0, 0, .42);
+}
+
+html[data-theme="dark"] .paper-box-image img,
+html[data-theme="dark"] img {
+    box-shadow: none;
+}
+
+html[data-theme="dark"] .paper-box-image img {
+    filter: brightness(.92) contrast(1.04);
+}
+
+html[data-theme="dark"] table,
+html[data-theme="dark"] th,
+html[data-theme="dark"] td {
+    border-color: #2a2f3a;
+}
+
+html[data-theme="dark"] thead,
+html[data-theme="dark"] tr:nth-child(even) {
+    background: #151923;
+}
+
+html[data-theme="dark"] code,
+html[data-theme="dark"] pre,
+html[data-theme="dark"] .highlight {
+    background: #161a23;
+    color: #e6edf7;
+}
+
+html[data-theme="dark"] blockquote {
+    color: #bdc7d8;
+    border-left-color: #394150;
+}
+
+html[data-theme="dark"] .notice,
+html[data-theme="dark"] .notice--primary,
+html[data-theme="dark"] .notice--info,
+html[data-theme="dark"] .notice--warning,
+html[data-theme="dark"] .notice--success,
+html[data-theme="dark"] .notice--danger {
+    background: #161a23;
+    color: #d9e1ee;
+    border-color: #2a2f3a;
+}
+
+html[data-theme="dark"] .badge {
+    background-color: #335db8;
+    color: #ffffff;
+}
