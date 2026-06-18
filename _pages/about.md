@@ -21,15 +21,15 @@ redirect_from:
 
 I am currently a PhD student at the School of Artificial Intelligence and Data Science, University of Science and Technology of China. Previously, I completed my M.Sc. and B.Sc. degrees at Wuhan University and Wuhan University of Technology, respectively.
 
-My research interests are broad and interdisciplinary, including **AI for Physics**, **Physics of AI**, **Computational Physics/Chemistry** and **AI for Medicine**. I am particularly passionate about using artificial intelligence to advance science and health research.
+My research interests are interdisciplinary, including **AI for Physics**, **Physics of AI**, **Computational Physics/Chemistry** and **AI for Medicine**. I am particularly passionate about using AI methods to advance science and health research.
 
 If you're interested in my work, feel free to reach out. [📧 Email me](mailto:florian@whu.edu.cn)
 
 ## 🏫 Educations
-- *2026.09 - Present*, PhD (student) in *Intelligence Science & Technology*, School of Artificial Intelligence and Data Science, University of Science and Technology of China. Supervisor: [Prof. Zhicheng Zhong](https://ai4s.work/zhichengzhong/).
+- *2026.09 - Present*, PhD (candidate) in *Intelligence Science & Technology*, School of Artificial Intelligence and Data Science, University of Science and Technology of China. Supervisor: [Prof. Zhicheng Zhong](https://ai4s.work/zhichengzhong/).
 - *2023.09 - 2026.06*, M.Sc. in *Electronic Science & Technology*, School of Integrated Circuits, Wuhan University.
 - *2019.09 - 2023.06*, B.Sc. in *Communications Engineering*, School of Information Engineering, Wuhan University of Technology.
-- *2016.09 - 2019.06*, High-school, Ouhai Middle School, Wenzhou, Zhejiang Province.
+- *2016.09 - 2019.06*, High-school, Ouhai Middle School, Wenzhou, Zhejiang.
 
 ## 📚 Publications 
 (\*Corresponding Author)
@@ -102,14 +102,14 @@ If you're interested in my work, feel free to reach out. [📧 Email me](mailto:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Phys. Rev. Appl.</div><img src='images/crystal-graph.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning Thermoelectric Transport from Crystal Structures via Multiscale Graph Neural Network](https://doi.org/10.1103/m8nb-bbp8)
+[Learning Thermoelectric Transport from Crystal Structures via Multiscale Graph Neural Network](https://link.aps.org/doi/10.1103/m8nb-bbp8)
 
 **Abstract**: Graph neural networks (GNNs) are designed to extract latent patterns from graph-structured data, making them particularly well suited for crystal representation learning. Here, we propose a GNN model tailored for estimating electronic transport coefficients in inorganic thermoelectric crystals. The model encodes crystal structures and physicochemical properties in a multiscale manner, encompassing global, atomic, bond, and angular levels. It achieves state-of-the-art performance on benchmark datasets with remarkable extrapolative capability. By combining the proposed GNN with *ab initio* calculations, we successfully identify compounds exhibiting outstanding electronic transport properties and further perform interpretability analyses from both global and atomic perspectives, tracing the origins of their distinct transport behaviors. Interestingly, the decision process of the model naturally reveals underlying physical patterns, offering new insights into computer-assisted materials design.
 
 **Yuxuan Zeng**, Wei Cao\*, Yijing Zuo, Fang Lyu, Wenhao Xie, Tan Peng, Yue Hou, Ling Miao, Ziyu Wang\*, Jing Shi
 
 [**Code and data**](https://github.com/FlorianTseng/TECSA-GNN)
-- *Physical Review Applied (**Phys. Rev. Appl.**)* (accepted), 2026 (SCI Q2)
+- *Physical Review Applied (**Phys. Rev. Appl.**)*, 2026 (SCI Q2)
 
 </div>
 </div>
@@ -169,6 +169,7 @@ If you're interested in my work, feel free to reach out. [📧 Email me](mailto:
 
 
 ## 🧑‍⚖️ Academic Service
+- *2026.06*, Peer reviewer for *Advanced Intelligent Systems*
 - *2026.04*, Joint peer review for *Materials & Design*
 - *2026.03*, Peer reviewer for *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*
 - *2026.02*, Peer reviewer for *Information Processing in Agriculture*
