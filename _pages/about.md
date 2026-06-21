@@ -288,22 +288,22 @@ If you're interested in my work, feel free to reach out. [📧 Email me](mailto:
 
 <span class='anchor' id='about-me-zh'></span>
 
-## 👤 关于我
+## 👤 个人简介
 
-我目前是中国科学技术大学人工智能与数据科学学院智能科学与技术专业博士研究生。此前，我分别在武汉大学和武汉理工大学获得硕士学位和学士学位。
+我目前在中国科学技术大学人工智能与数据科学学院攻读博士；此前我分别在武汉理工大学信息工程学院、武汉大学集成电路学院完成了本科和硕士学业。
 
-我的研究兴趣具有交叉学科特点，主要包括 **AI for Physics**、**Physics of AI**、**Computational Physics/Chemistry** 和 **AI for Medicine**。我尤其关注如何利用 AI 方法推动科学研究和医疗健康研究。
+我的研究兴趣相当广泛，包括 **AI for Physics**、**Physics of AI**、**Computational Physics/Chemistry** 和 **AI for Medicine**。我尤其关注如何利用人工智能方法推动科学研究和医疗健康研究，以及利用统计力学方法分析神经网络在比例极限下的典型行为。
 
-如果你对我的工作感兴趣，欢迎联系我。[📧 给我发邮件](mailto:florian@whu.edu.cn)
+如果你对我的工作感兴趣，欢迎交流。[📧 邮件](mailto:florian@whu.edu.cn)
 
 ## 🏫 教育经历
-- *2026.09 - 至今*，中国科学技术大学人工智能与数据科学学院，*智能科学与技术* 博士研究生。导师：[Prof. Zhicheng Zhong](https://ai4s.work/zhichengzhong/)。
+- *2026.09 - 至今*，中国科学技术大学人工智能与数据科学学院，*智能科学与技术* 博士研究生。指导教师：[钟志诚 教授](https://ai4s.work/zhichengzhong/)。
 - *2023.09 - 2026.06*，武汉大学集成电路学院，*电子科学与技术* 硕士。
 - *2019.09 - 2023.06*，武汉理工大学信息工程学院，*通信工程* 学士。
-- *2016.09 - 2019.06*，浙江温州瓯海中学，高中。
+- *2016.09 - 2019.06*，浙江省瓯海中学，高中。
 
-## 📚 论文发表
-(\*Corresponding Author)
+## 📚 学术成果
+(\*通讯作者)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Mater. Today</div><img src='images/paper1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -359,7 +359,7 @@ If you're interested in my work, feel free to reach out. [📧 Email me](mailto:
 
 **摘要**：可靠的机器学习技术在辅助临床决策方面具有重要潜力，包括生物信息学和医学影像分析等应用。然而，AI 驱动的医学研究常受到数据稀缺、数据质量不足以及机器学习模型黑箱特性的限制。因此，亟需可靠的代理模型来克服这些挑战，使模型能够从小样本数据中进行准确学习，并为临床诊断提供支持。在该研究中，我们开展了一项回顾性观察临床研究，并提出了一个数据驱动预测模型，能够基于个体患者临床诊断特征估计平均肺动脉压（mPAP），从而实现对肺动脉高压的准确评估。此外，我们创新性地将 CMR 相关特征纳入疾病评估框架。与传统有创测量方法相比，该框架不仅能够利用易获取的无创生理特征准确预测患者的 mPAP，还能够结合不确定性量化提取定性规律，从而辅助临床诊断。
 
-**Collection**: [Emerging Applications of Machine Learning and AI for Predictive Modeling in Precision Medicine](https://www.nature.com/collections/fdghjcecib)
+**Collection**: [机器学习和人工智能在精准医疗预测建模中的新兴应用](https://www.nature.com/collections/fdghjcecib)
 
 [**Code and data**](https://github.com/FlorianTseng/mPAP-Pred)
 - *npj Digital Medicine (**npj Digit. Med.**)*, 2025 (SCI Q1)
@@ -391,7 +391,7 @@ If you're interested in my work, feel free to reach out. [📧 Email me](mailto:
 -->
 
 ## 🥇 荣誉与奖励
-- *2025.12*，武汉大学集成电路学院 ASML Scholarship（武汉大学集成电路学院阿斯麦奖学金）
+- *2025.12*，武汉大学集成电路学院阿斯麦奖学金
 - *2023.06*，武汉理工大学优秀学士学位论文
 - *2021.10*，第十一届 MathorCup 高校数学建模挑战赛本科组三等奖
 - *2022.06*，武汉理工大学三等奖学金，2021–2022
