@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently a PhD student at the School of Artificial Intelligence and Data Science, University of Science and Technology of China. Previously, I completed my M.Sc. and B.Sc. degrees at Wuhan University and Wuhan University of Technology, respectively.
 
-My research interests are interdisciplinary, including **AI for Physics**, **Physics of AI**, **Computational Physics/Chemistry** and **AI for Medicine**. I am particularly passionate about using AI methods to advance science and health research.
+My research interests are interdisciplinary, including **AI for Physics**, **Physics of AI**, **Computational Physics/Chemistry** and **AI for Medicine**. I am quite interested in accelerating scientific research (particularly in condensed-matter physics) using AI methods, and in analyzing the typical behavior of neural networks in the proportional limit through the lens of statistical-mechanics.
 
 If you're interested in my work, feel free to reach out. [📧 Email me](mailto:florian@whu.edu.cn)
 
