@@ -26,7 +26,7 @@ My research interests are interdisciplinary, including **AI for Condensed-Matter
 If you're interested in my work, feel free to reach out. [📧 Email me](mailto:florian@whu.edu.cn)
 
 ## 🏫 Educations
-- *2026.09 - Present*, Ph.D. (candidate) in *Intelligence Science & Technology*, School of Artificial Intelligence and Data Science, University of Science and Technology of China. Supervisor: [Prof. Zhicheng Zhong](https://ai4s.work/zhichengzhong/).
+- *2026.09 - Present*, Ph.D. (student) in *Intelligence Science & Technology*, School of Artificial Intelligence and Data Science, University of Science and Technology of China. Supervisor: [Prof. Zhicheng Zhong](https://ai4s.work/zhichengzhong/).
 - *2023.09 - 2026.06*, M.Sc. in *Electronic Science & Technology*, School of Integrated Circuits, Wuhan University.
 - *2019.09 - 2023.06*, B.Sc. in *Communications Engineering*, School of Information Engineering, Wuhan University of Technology.
 - *2016.09 - 2019.06*, High-school, Ouhai Middle School, Wenzhou, Zhejiang.
